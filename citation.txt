@@ -1,0 +1,8 @@
+@misc{REPO381,
+    author = "Shinn, Noah and Cassano, Federico and Berman, Edward and Gopinath, Ashwin and Narasimhan, Karthik and Yao, Shunyu",
+    archiveprefix = "arXiv",
+    eprint = "2303.11366",
+    primaryclass = "cs.AI",
+    title = "{Reflexion: Language Agents with Verbal Reinforcement Learning}",
+    year = "2023"
+}
