@@ -1,0 +1,287 @@
+[
+  {
+    "id": "5adf2fa35542993344016c11",
+    "question": "Which of Jonny Craig and Pete Doherty has been a member of more bands ?",
+    "key": "Jonny\" Craig",
+    "answers": [
+      "Jonny Craig"
+    ],
+    "is_correct": true,
+    "reflections": [],
+    "step_n": 3,
+    "trials_count": 0
+  },
+  {
+    "id": "5a8e27d45542995a26add46a",
+    "question": "Jaclyn Stapp is married to the former frontman of a band that disbanded in what year?",
+    "key": "2004",
+    "answers": [
+      "2004"
+    ],
+    "is_correct": true,
+    "reflections": [],
+    "step_n": 5,
+    "trials_count": 0
+  },
+  {
+    "id": "5abdd0f15542991f6610604d",
+    "question": "The Rome Protocols were signed by three Prime Ministers one of which was assassinated as part of what?",
+    "key": "a failed coup attempt",
+    "answers": [
+      "The assassination of Engelbert Dollfuss was part of a failed coup attempt by Nazi agents."
+    ],
+    "is_correct": true,
+    "reflections": [],
+    "step_n": 5,
+    "trials_count": 0
+  },
+  {
+    "id": "5a845d735542996488c2e52e",
+    "question": "Stronger Together was used for the campaign comprised of the Vice Presidential candidate who was a Senator from what state?",
+    "key": "Virginia",
+    "answers": [
+      "Virginia"
+    ],
+    "is_correct": true,
+    "reflections": [],
+    "step_n": 3,
+    "trials_count": 0
+  },
+  {
+    "id": "5adf5daf5542995534e8c79d",
+    "question": "Are Darren Benjamin Shepherd and Rémi Lange both American?",
+    "key": "no",
+    "answers": [
+      "No, they are not both American; Darren Benjamin Shepherd is American and Rémi Lange is French.",
+      "No, Darren Benjamin Shepherd is American, but Rémi Lange is French.",
+      "No; Darren Benjamin Shepherd is American, but Rémi Lange is French.",
+      "No; Darren Benjamin Shepherd is American, but Rémi Lange is French.",
+      "No; Darren Benjamin Shepherd is American, Rémi Lange is French."
+    ],
+    "is_correct": true,
+    "reflections": [],
+    "step_n": 7,
+    "trials_count": 0
+  },
+  {
+    "id": "5a7c49dc55429935c91b514f",
+    "question": "The head of the Foreign Relations Department of the Rastriya Janashakti Party holds a degree that can be abbreviated MS, M.S., or ScM, in what field?",
+    "key": "Engineering",
+    "answers": [
+      "Engineering"
+    ],
+    "is_correct": true,
+    "reflections": [],
+    "step_n": 3,
+    "trials_count": 0
+  },
+  {
+    "id": "5a78bc6b554299148911f979",
+    "question": "Woman's Era and Naj are what kind of magazines?",
+    "key": "fortnightly women interest magazine",
+    "answers": [
+      "Both Woman's Era and Naj are women’s interest/lifestyle magazines. Woman's Era is an Indian magazine published in English while Naj is a Polish language magazine published in Poland.",
+      "Both Woman's Era and Naj are women’s interest/lifestyle magazines.",
+      "Both Woman's Era and Naj are women’s interest/lifestyle magazines.",
+      "Women's interest/lifestyle magazines",
+      "Women's interest/lifestyle magazines",
+      "Women's magazines",
+      "Woman's interest",
+      "Women's magazines",
+      "Women's interest magazines; Woman's Era is an Indian English-language magazine covering various topics of interest to women, while Naj is a Polish language magazine focusing on lifestyle and women's interests.",
+      "Women's interest magazines; Woman's Era is an Indian English-language women’s magazine, Naj is a Polish lifestyle and women’s magazine.",
+      "Women's magazines; Woman's Era is Indian, Naj is Polish.",
+      "Women's interest magazines; Woman's Era is an Indian English-language magazine, and Naj is a Polish lifestyle magazine.",
+      "Women's interest magazines; Woman's Era is Indian, Naj is Polish.",
+      "Women's magazines; Woman's Era is an Indian English-language women's interest magazine, and Naj is a Polish women's lifestyle magazine.",
+      "Women's magazines; Woman's Era is an Indian English-language magazine focusing on various topics of interest to women, and Naj is a Polish lifestyle magazine.",
+      "Women's magazines; Woman's Era is Indian, Naj is Polish.",
+      "Both Woman's Era and Naj are women's magazines. Woman's Era is an Indian magazine published in English, while Naj is a Polish-language magazine.",
+      "Woman's Era and Naj are both women’s interest magazines. Woman's Era is an Indian English-language magazine covering various topics including fashion, health, relationships, and lifestyle. Naj is a Polish-language magazine published in Warsaw that also focuses on lifestyle and women's interests.",
+      "Woman's Era and Naj are both women’s interest magazines.",
+      "Woman's Era and Naj are women’s interest magazines.",
+      "Women’s interest magazines",
+      "Women’s interest magazines",
+      "Women’s interest magazines",
+      "Women’s interest magazines",
+      "Women’s interest magazines",
+      "women’s interest magazines",
+      "Women’s interest magazines",
+      "Woman's Era and Naj are women's interest magazines",
+      "Women's interest magazines",
+      "Woman's Era and Naj are women’s interest magazines",
+      "both Woman's Era and Naj are women’s interest magazines",
+      "Both Woman's Era and Naj are women’s interest magazines, with Woman's Era being an Indian magazine covering topics like fashion, health, relationships, and lifestyle, while Naj is a Polish magazine focusing on similar themes but within the Polish market.",
+      "Both Woman's Era and Naj are women’s interest magazines, with Woman's Era focusing on the Indian market and covering topics like fashion, health, relationships, and lifestyle. Similarly, Naj focuses on a Polish audience with its content centered around lifestyle and women’s interests.",
+      "Woman's Era is an Indian women's interest magazine covering topics like fashion, health, relationships, and lifestyle. Naj is a Polish women’s interest magazine focusing on similar themes but in the context of Poland.",
+      "Woman's Era is an Indian women's interest magazine covering topics such as fashion, health, relationships, and lifestyle. Naj is a Polish women’s interest magazine also focusing on similar themes but tailored to the context of Poland.",
+      "Woman's Era is an Indian women's interest magazine that covers a variety of topics such as fashion, health, relationships, lifestyle, travel, technology, movie reviews, book reviews, and social events. Naj is a Polish women’s interest magazine focusing on similar themes but tailored specifically to the context and interests of its Polish audience.",
+      "Woman's Era is an Indian women’s interest magazine, while Naj is a Polish women’s interest magazine.",
+      "Woman's Era is an Indian women’s interest magazine covering topics like fashion, health, relationships, and lifestyle. Naj is a Polish women’s interest magazine focusing on similar themes but within the Polish market."
+    ],
+    "is_correct": false,
+    "reflections": [],
+    "step_n": 10,
+    "trials_count": 4
+  },
+  {
+    "id": "5abe364e5542993f32c2a08e",
+    "question": "Lollipop Chainsaw featured Juliet Starling, who was voiced by a Canadian-American actress who has done voice roles for what Teen Titans spinoff series?",
+    "key": "Teen Titans Go!",
+    "answers": [
+      "Information not found",
+      "Unable to determine which Teen Titans spinoff series Jessica Nigri voiced for based on available information",
+      "Based on the available information, there does not seem to be any direct connection between Jessica Nigri and voice roles in a Teen Titans spinoff series. It's possible that this specific detail is not well-documented or might be a misunderstanding.",
+      "Information not found",
+      "There is no clear evidence that the actress who voiced Juliet Starling (Jessica Nigri) has done voice roles for any Teen Titans spinoff series."
+    ],
+    "is_correct": false,
+    "reflections": [],
+    "step_n": 10,
+    "trials_count": 4
+  },
+  {
+    "id": "5ac557975542993e66e8231c",
+    "question": "What team was led to victory in 1939 by a two-time All-American basketball player nicknamed \"Scat\"?",
+    "key": "Oklahoma Sooners",
+    "answers": [
+      "Oklahoma Sooners"
+    ],
+    "is_correct": true,
+    "reflections": [],
+    "step_n": 2,
+    "trials_count": 0
+  },
+  {
+    "id": "5ab28a87554299449642c8ec",
+    "question": "This expansion of the 2008 magazine article \"Is Google Making Us Stoopid?\" was a finalist for what award?",
+    "key": "Pulitzer Prize",
+    "answers": [
+      "The Pulitzer Prize in 2011"
+    ],
+    "is_correct": true,
+    "reflections": [],
+    "step_n": 3,
+    "trials_count": 1
+  },
+  {
+    "id": "5adff056554299603e4183cc",
+    "question": "What year did The Chronicle of Philanthropy's publishing overlap with Antic?",
+    "key": "1988",
+    "answers": [
+      "The Chronicle of Philanthropy's publishing overlapped with Antic from 1988 until June/July 1990.",
+      "The Chronicle of Philanthropy's publishing overlapped with Antic from 1988 until June/July 1990, which is the period of overlap.",
+      "1988-1990",
+      "1988-1990",
+      "1988-1990",
+      "1988-1990",
+      "1988-1990",
+      "The overlapping years between The Chronicle of Philanthropy and Antic magazines are from 1988 to 1990.",
+      "The Chronicle of Philanthropy and Antic overlapped in publishing from 1988 to June/July 1990.",
+      "The Chronicle of Philanthropy and Antic overlapped in publishing from 1988 to June/July 1990",
+      "The Chronicle of Philanthropy and Antic overlapped in publishing from 1988 to June/July 1990.",
+      "The Chronicle of Philanthropy and Antic overlapped in publishing from 1988 to June/July 1990.",
+      "1988 to June/July 1990",
+      "1988 to June/July 1990",
+      "The Chronicle of Philanthropy and Antic overlapped in publication from 1988 to June/July 1990.",
+      "The Chronicle of Philanthropy's publishing overlapped with Antic from 1988 to June/July 1990.",
+      "The Chronicle of Philanthropy's publishing overlapped with Antic starting sometime in 1988 and continuing until June/July 1990.",
+      "The Chronicle of Philanthropy's publishing overlapped with Antic starting in 1988 and continuing until June/July 1990.",
+      "The Chronicle of Philanthropy's publishing overlapped with Antic starting from its founding year (1988) and continuing until Antic ceased publication in June/July 1990.",
+      "The Chronicle of Philanthropy's publishing overlapped with Antic starting sometime in 1988 and continuing until June/July 1990.",
+      "The Chronicle of Philanthropy's publishing overlapped with Antic from some point in 1988 until June/July 1990.",
+      "The overlap occurred from some point in 1988 until June/July 1990",
+      "The overlap occurred from 1988 to June/July 1990",
+      "The overlap occurred from 1988 to June/July 1990",
+      "The overlap between The Chronicle of Philanthropy and Antic magazine occurred from 1988 until June/July 1990",
+      "The Chronicle of Philanthropy and Antic magazine overlapped in publication from 1988 until June/July 1990",
+      "The Chronicle of Philanthropy's publishing overlapped with Antic from 1988 to June/July 1990.",
+      "The Chronicle of Philanthropy's publishing overlapped with Antic from 1988 to June/July 1990.",
+      "The Chronicle of Philanthropy's publishing overlapped with Antic from 1988 to June/July 1990.",
+      "1988 to June/July 1990",
+      "1988 to June/July 1990",
+      "1988 to June/July 1990"
+    ],
+    "is_correct": false,
+    "reflections": [],
+    "step_n": 10,
+    "trials_count": 4
+  },
+  {
+    "id": "5ae6f2a7554299572ea5464a",
+    "question": "Which character does this protagonist, who secretly loves and marries a member of the rival house, of William Shakespeare's tragedy that has a fictional character Benvolio slay?",
+    "key": "Tybalt",
+    "answers": [
+      "Juliet Capulet",
+      "Romeo Montague",
+      "Romeo Montague",
+      "Romeo Montague",
+      "Romeo Montague",
+      "Romeo Montague",
+      "Romeo Montague",
+      "Romeo Montague",
+      "Romeo Montague",
+      "Romeo Montague",
+      "Romeo Montague",
+      "Romeo Montague",
+      "Romeo Montague",
+      "Romeo Montague",
+      "Romeo Montague",
+      "Romeo Montague",
+      "Romeo Montague",
+      "Romeo Montague",
+      "Juliet Capulet",
+      "Juliet Capulet",
+      "Romeo Montague",
+      "Romeo Montague",
+      "Juliet Capulet",
+      "Juliet Capulet",
+      "Friar Lawrence",
+      "Juliet Capulet",
+      "Juliet Capulet",
+      "Juliet Capulet",
+      "Juliet Capulet",
+      "Juliet Capulet",
+      "Romeo Montague",
+      "Friar Lawrence",
+      "Secret Marriage",
+      "Friar Lawrence",
+      "Friar Lawrence",
+      "Friar Lawrence",
+      "Nurse",
+      "Friar Lawrence",
+      "Friar Lawrence",
+      "Friar Lawrence",
+      "Friar Lawrence",
+      "Tybalt"
+    ],
+    "is_correct": true,
+    "reflections": [],
+    "step_n": 1,
+    "trials_count": 0
+  },
+  {
+    "id": "5a7180205542994082a3e856",
+    "question": "The creator of \"Wallace and Gromit\" also created what animation comedy that matched animated zoo animals with a soundtrack of people talking about their homes? ",
+    "key": "Creature Comforts",
+    "answers": [
+      "\"Creature Comforts\" is an original short film that was directed by Adam Mackay and produced by Aardman Animations in 1989. The unique format of the film involves real people being interviewed, with their comments later voiced over by animated animals."
+    ],
+    "is_correct": true,
+    "reflections": [],
+    "step_n": 3,
+    "trials_count": 0
+  },
+  {
+    "id": "5ab5487b554299494045ef68",
+    "question": "Operation Cold Comfort was a failed raid by a special forces unit founded in what year?",
+    "key": "1941",
+    "answers": [
+      "1941"
+    ],
+    "is_correct": true,
+    "reflections": [],
+    "step_n": 3,
+    "trials_count": 0
+  }
+]

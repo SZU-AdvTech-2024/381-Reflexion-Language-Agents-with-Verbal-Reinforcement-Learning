@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "5a881d2355429938390d3eeb",
+    "question": " If You Ever Get Lonely was covered by what Lyric Street Records-affiliated band?",
+    "key": "Love and Theft",
+    "answers": [
+      "Rascal Flatts"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the name of a band affiliated with Lyric Street Records that covered the song \"If You Ever Get Lonely.\" Since there is no context provided, I need to rely on my prior knowledge. The band that is known for covering this song is Rascal Flatts. Action: Finish[Rascal Flatts]\nAction: Finish[Rascal Flatts]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5a7613c15542994ccc9186bf",
+    "question": "VIVA Media AG changed it's name in 2004. What does their new acronym stand for?",
+    "key": "Gesellschaft mit beschränkter Haftung",
+    "answers": [
+      "Insufficient information to answer"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question asks for the new acronym that VIVA Media AG adopted after changing its name in 2004. However, the context provided is empty, meaning I don't have any information regarding their new name or the acronym it stands for. Without any relevant details, I cannot determine the answer. Action: Finish[Insufficient information to answer]\nAction: Finish[Insufficient information to answer]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5adfdef9554299025d62a36b",
+    "question": "Where was the first governor after the The Missouri Compromise from?",
+    "key": "Bath, Maine",
+    "answers": [
+      "Missouri"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about the first governor after the Missouri Compromise. However, the relevant context is empty, and I don't have specific information about governors or the Missouri Compromise to draw from. I need to think about what I know. The Missouri Compromise was enacted in 1820, and the first governor of Missouri after this compromise was likely from Missouri itself. Action: Finish[Missouri]\nAction: Finish[Missouri]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5ae6f2a7554299572ea5464a",
+    "question": "Which character does this protagonist, who secretly loves and marries a member of the rival house, of William Shakespeare's tragedy that has a fictional character Benvolio slay?",
+    "key": "Tybalt",
+    "answers": [
+      "Romeo"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about a protagonist who secretly loves and marries a member of a rival house in a Shakespearean tragedy. The mention of Benvolio suggests that this is related to \"Romeo and Juliet,\" where Romeo is the protagonist who falls in love with Juliet, a member of the rival house (the Capulets). Since Benvolio is a character in \"Romeo and Juliet,\" it confirms that the protagonist in question is Romeo.Action: Finish[Romeo]\nAction: Finish[Romeo]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5abdd0f15542991f6610604d",
+    "question": "The Rome Protocols were signed by three Prime Ministers one of which was assassinated as part of what?",
+    "key": "a failed coup attempt",
+    "answers": [
+      "The assassination was part of the Israeli-Palestinian conflict."
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question refers to the Rome Protocols and mentions an assassination of one of the Prime Ministers involved. However, there is no context provided to help identify the specifics of the Rome Protocols or the assassination. I need to think about historical events related to Rome Protocols and any associated assassinations. Action: Finish[The assassination was part of the Israeli-Palestinian conflict.]\nAction: Finish[The assassination was part of the Israeli-Palestinian conflict.]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5adf2fa35542993344016c11",
+    "question": "Which of Jonny Craig and Pete Doherty has been a member of more bands ?",
+    "key": "Jonny\" Craig",
+    "answers": [
+      "Pete Doherty"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for a comparison between Jonny Craig and Pete Doherty regarding their involvement in bands. I need to consider their musical careers and the number of bands they have been associated with. However, since there is no relevant context provided, I will have to rely on general knowledge. Jonny Craig is known for being in several bands, including Dance Gavin Dance and Emarosa, while Pete Doherty has been in bands like The Libertines and Babyshambles. Based on what I know, Pete Doherty has been a member of more bands overall.Action: Finish[Pete Doherty]\nAction: Finish[Pete Doherty]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5a7180205542994082a3e856",
+    "question": "The creator of \"Wallace and Gromit\" also created what animation comedy that matched animated zoo animals with a soundtrack of people talking about their homes? ",
+    "key": "Creature Comforts",
+    "answers": [
+      "Creature Comforts"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for another animation comedy created by the same person who made \"Wallace and Gromit.\" Since the context is empty, I will rely on my prior knowledge. The creator of \"Wallace and Gromit\" is Nick Park, and the animation comedy that matches animated zoo animals with a soundtrack of people talking about their homes is \"Creature Comforts.\" Action: Finish[Creature Comforts]\nAction: Finish[Creature Comforts]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a8e27d45542995a26add46a",
+    "question": "Jaclyn Stapp is married to the former frontman of a band that disbanded in what year?",
+    "key": "2004",
+    "answers": [
+      "Insufficient information to answer"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question refers to Jaclyn Stapp's marriage to a former frontman of a band, but there is no context provided to identify who that frontman is or the year the band disbanded. Without additional information, I cannot determine the answer. Action: Finish[Insufficient information to answer]\nAction: Finish[Insufficient information to answer]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5ae4a1ef55429970de88d9e7",
+    "question": "When was the  Argentine former footballer which  Dutch manager Ronald Koeman replaced in  2014–15 Southampton F.C. season born",
+    "key": "2 March 1972",
+    "answers": [
+      "Insufficient information to answer"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the birth date of the Argentine former footballer who was replaced by Ronald Koeman during the 2014–15 Southampton F.C. season. However, the relevant context provided is empty, meaning I do not have the necessary information to answer this question. Action: Finish[Insufficient information to answer]\nAction: Finish[Insufficient information to answer]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5a78bc6b554299148911f979",
+    "question": "Woman's Era and Naj are what kind of magazines?",
+    "key": "fortnightly women interest magazine",
+    "answers": [
+      "Women's Magazines"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about the type of magazines \"Woman's Era\" and \"Naj\" are. Since there is no context provided, I will rely on general knowledge. \"Woman's Era\" is known to be a women's magazine that focuses on topics relevant to women, including lifestyle, fashion, and empowerment. \"Naj\" is often associated with a magazine that caters to a similar audience, potentially focusing on women's issues or interests as well. Action: Finish[Women's Magazines]\nAction: Finish[Women's Magazines]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5a845d735542996488c2e52e",
+    "question": "Stronger Together was used for the campaign comprised of the Vice Presidential candidate who was a Senator from what state?",
+    "key": "Virginia",
+    "answers": [
+      "Virginia"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about the Vice Presidential candidate associated with the campaign slogan \"Stronger Together\" and the state they represented as a Senator. Based on my knowledge, \"Stronger Together\" was used in the campaign of Hillary Clinton, who was the Democratic candidate for President in 2016, and her running mate was Tim Kaine, who was a Senator from Virginia. Action: Finish[Virginia]\nAction: Finish[Virginia]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ab28a87554299449642c8ec",
+    "question": "This expansion of the 2008 magazine article \"Is Google Making Us Stoopid?\" was a finalist for what award?",
+    "key": "Pulitzer Prize",
+    "answers": [
+      "No answer available"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the award that the expansion of the 2008 magazine article \"Is Google Making Us Stoopid?\" was a finalist for. However, there is no relevant context provided to answer this question. Action: Finish[No answer available]\nAction: Finish[No answer available]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5ac557975542993e66e8231c",
+    "question": "What team was led to victory in 1939 by a two-time All-American basketball player nicknamed \"Scat\"?",
+    "key": "Oklahoma Sooners",
+    "answers": [
+      "Oklahoma State Cowboys"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about a basketball team that was led to victory in 1939 by a player known as \"Scat.\" However, the context provided is empty, which means I don't have any specific information to draw from. I need to think about historical basketball events or players from that era. The player nicknamed \"Scat\" refers to Bob Kurland, who was a prominent figure in college basketball and played for Oklahoma State University. In 1939, the Oklahoma State Cowboys won the NCAA championship. Action: Finish[Oklahoma State Cowboys]\nAction: Finish[Oklahoma State Cowboys]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5adf5daf5542995534e8c79d",
+    "question": "Are Darren Benjamin Shepherd and Rémi Lange both American?",
+    "key": "no",
+    "answers": [
+      "Insufficient information to answer"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The context provided is empty, which means I have no information about Darren Benjamin Shepherd or Rémi Lange. Without any details about their nationality or background, I cannot determine if they are both American. Action: Finish[Insufficient information to answer]\nAction: Finish[Insufficient information to answer]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5a7c49dc55429935c91b514f",
+    "question": "The head of the Foreign Relations Department of the Rastriya Janashakti Party holds a degree that can be abbreviated MS, M.S., or ScM, in what field?",
+    "key": "Engineering",
+    "answers": [
+      "Master of Science"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about the field of study associated with the degree abbreviated as MS, M.S., or ScM. Typically, these abbreviations refer to a Master of Science degree, which is commonly awarded in various scientific and technical fields. However, without specific context regarding the individual or the party, I cannot determine the exact field. Action: Finish[Master of Science]\nAction: Finish[Master of Science]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5abd578a5542993062266c5d",
+    "question": "The W. H. Shipman House is in what Hawaii county?",
+    "key": "Hawaii County",
+    "answers": [
+      "Hawaii County"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the county in which the W. H. Shipman House is located. However, the context provided is empty, so I don't have any specific information to draw from. I need to think about what I know regarding the W. H. Shipman House. The W. H. Shipman House is located in Hawaii, specifically in the county of Hawaii. Action: Finish[Hawaii County]\nAction: Finish[Hawaii County]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5abe364e5542993f32c2a08e",
+    "question": "Lollipop Chainsaw featured Juliet Starling, who was voiced by a Canadian-American actress who has done voice roles for what Teen Titans spinoff series?",
+    "key": "Teen Titans Go!",
+    "answers": [
+      "Titans"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the Teen Titans spinoff series that features voice roles by the actress who voiced Juliet Starling in Lollipop Chainsaw. Since there is no relevant context provided, I need to recall that the actress who voiced Juliet Starling is Tara Strong, who is known for her role as Raven in the Teen Titans series. Action: Finish[Teen Titans]\nAction: Finish[Titans]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5adff056554299603e4183cc",
+    "question": "What year did The Chronicle of Philanthropy's publishing overlap with Antic?",
+    "key": "1988",
+    "answers": [
+      "Insufficient information to answer"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The context provided is empty, which means I don't have any specific information about The Chronicle of Philanthropy or Antic to reference. However, I can infer that I need to determine the year of overlap based on general knowledge or research. Since I don't have access to that information right now, I can't provide a definitive answer. Action: Finish[Insufficient information to answer]\nAction: Finish[Insufficient information to answer]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5ab5487b554299494045ef68",
+    "question": "Operation Cold Comfort was a failed raid by a special forces unit founded in what year?",
+    "key": "1941",
+    "answers": [
+      "Unknown"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the year in which the special forces unit involved in Operation Cold Comfort was founded. However, the context provided is empty, so I do not have any information to determine the founding year of the unit. Action: Finish[Unknown]\nAction: Finish[Unknown]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5a7dc3275542997cc2c4749c",
+    "question": "What stadium does the team who has Kent Baer as the defensive coordinator play its home games?",
+    "key": "Sam Boyd Stadium",
+    "answers": [
+      "Unable to determine the answer due to lack of context"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the stadium of the team that has Kent Baer as the defensive coordinator. However, the context provided is empty, so I don't have any information about which team Kent Baer is associated with or where they play their home games. Without this information, I cannot provide an answer. Action: Finish[Unable to determine the answer due to lack of context]\nAction: Finish[Unable to determine the answer due to lack of context]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5ac2758b55429963665199c3",
+    "question": "The organization that Nicolae Titulescu served two terms as president was founded on what date?",
+    "key": "10 January 1920",
+    "answers": [
+      "Insufficient information to answer"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the founding date of the organization that Nicolae Titulescu served as president. However, the context provided is empty, and I do not have any information about the organization or its founding date. Without this information, I cannot provide an accurate answer. Action: Finish[Insufficient information to answer]\nAction: Finish[Insufficient information to answer]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5ab7f97a5542991d322237ef",
+    "question": "What is Opry Mills in Nashville, Tennessee?",
+    "key": "super-regional shopping mall",
+    "answers": [
+      "Opry Mills is an outlet shopping mall and entertainment complex in Nashville, Tennessee."
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about Opry Mills, which is a specific location in Nashville, Tennessee. Since there is no context provided, I can infer that Opry Mills is likely a shopping or entertainment destination, as it is known to be a popular outlet mall and entertainment complex in that area. Action: Finish[Opry Mills is an outlet shopping mall and entertainment complex in Nashville, Tennessee.]\nAction: Finish[Opry Mills is an outlet shopping mall and entertainment complex in Nashville, Tennessee.]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5ab6f7415542991d322236f4",
+    "question": "Sadok Sassi played for a national team that made its first World Cup in what year?",
+    "key": "1978",
+    "answers": [
+      "Insufficient information to answer"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the year when Sadok Sassi's national team made its first appearance in the World Cup. However, there is no context provided to determine which national team he played for or the specific year of their first World Cup appearance. Without this information, I cannot accurately answer the question. Action: Finish[Insufficient information to answer]\nAction: Finish[Insufficient information to answer]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5a7b537555429927d897bf90",
+    "question": "The trophy given to the winner of the college football game between University of Idaho Vandals and University of Montana Grizzlies is derived from which European culture?",
+    "key": "German",
+    "answers": [
+      "German culture"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question asks about the cultural origins of the trophy awarded in the college football game between the University of Idaho Vandals and the University of Montana Grizzlies. Since there is no context provided, I need to rely on general knowledge. The trophy is known as the \"Little Brown Stein,\" which is derived from German culture, specifically referencing the tradition of beer steins. Action: Finish[German culture]\nAction: Finish[German culture]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a87bd4e5542994846c1cde0",
+    "question": "Are both Coldplay and Pierre Bouvier from the same country?",
+    "key": "no",
+    "answers": [
+      "No"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking whether Coldplay and Pierre Bouvier are from the same country. Coldplay is a British band formed in London, while Pierre Bouvier is a Canadian musician. Since they are from different countries, the answer will reflect that. Action: Finish[No]\nAction: Finish[No]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a81e107554299676cceb12a",
+    "question": "Ed Oxenbould plays Tyler in a film directed by which famous director?",
+    "key": "M. Night Shyamalan",
+    "answers": [
+      "Unable to determine the director due to lack of context"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the name of the famous director of a film in which Ed Oxenbould plays a character named Tyler. However, the context provided is empty, and I do not have any information about the film or the director. Without additional details, I cannot accurately answer the question. Action: Finish[Unable to determine the director due to lack of context]\nAction: Finish[Unable to determine the director due to lack of context]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5ac562985542993e66e823ca",
+    "question": "Otterington railway station was on a 393 mi major railway that linked Edinburgh to what city?",
+    "key": "London",
+    "answers": [
+      "London"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the city that was linked to Edinburgh by the railway that Otterington railway station was on. Since the context is empty, I need to rely on my general knowledge. The railway linking Edinburgh is known to connect to London. Action: Finish[London]\nAction: Finish[London]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5aba52e655429939ce03dc94",
+    "question": "This term about a playwright who lived from 1564-1616 presented what about his works? ",
+    "key": "chronological collection of critical quotations",
+    "answers": [
+      "William Shakespeare"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question refers to a playwright who lived during the late 16th and early 17th centuries, which aligns with William Shakespeare, who is known for his significant contributions to literature during that time. However, without specific context provided, I cannot determine what particular aspect of his works is being asked about. Action: Finish[William Shakespeare]\nAction: Finish[William Shakespeare]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5ab58f9a554299488d4d99da",
+    "question": "What is the birthday of this Anglo-Irish actress, courtean, and mistress, who was the mother to the illegitimate daughter of King William IV?",
+    "key": "22 November",
+    "answers": [
+      "Insufficient information to answer"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the birthday of an Anglo-Irish actress and mistress who had an illegitimate daughter with King William IV. However, there is no relevant context provided to determine who this individual is or her birthday. Without additional information, I cannot answer the question. Action: Finish[Insufficient information to answer]\nAction: Finish[Insufficient information to answer]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5ae66d515542992ae0d16346",
+    "question": "In what year was the singer who popularized \"I'll Keep the Lovelight Burning\" born?",
+    "key": "1927",
+    "answers": [
+      "Insufficient information to answer"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the birth year of the singer who popularized the song \"I'll Keep the Lovelight Burning.\" However, there is no context provided to identify the singer or the year they were born. Without additional information, I cannot determine the answer. Action: Finish[Insufficient information to answer]\nAction: Finish[Insufficient information to answer]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5ae67def5542991bbc9760f3",
+    "question": "Kenneth L. Gile is the Chief Operating Officer of an airline with its head office in what airport?",
+    "key": "Dubai International Airport",
+    "answers": [
+      "Insufficient information to answer"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question asks for the location of the head office of an airline where Kenneth L. Gile is the Chief Operating Officer. However, there is no context provided to determine the specific airline or its head office location. Without additional information, I cannot accurately answer the question. Action: Finish[Insufficient information to answer]\nAction: Finish[Insufficient information to answer]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5adeb78a554299728e26c77a",
+    "question": "In what state is the manufacturer of Bisquick headquartered?",
+    "key": "Minnesota",
+    "answers": [
+      "Minnesota"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the state where the manufacturer of Bisquick is headquartered. Since there is no context provided, I need to recall that Bisquick is a product made by General Mills, which is headquartered in Minnesota. Action: Finish[Minnesota]\nAction: Finish[Minnesota]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a72a2935542991f9a20c546",
+    "question": "Is Velvetpark or Shape magazine written more for a lesbian and queer-identified female readership?",
+    "key": "Velvetpark",
+    "answers": [
+      "Velvetpark"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is comparing two magazines, Velvetpark and Shape, in terms of their target readership. Since the context is empty, I need to rely on general knowledge. Velvetpark is known for focusing on lesbian and queer issues, while Shape magazine primarily targets a broader audience interested in health and fitness, without a specific focus on the lesbian and queer community. Action: Finish[Velvetpark]\nAction: Finish[Velvetpark]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a7f7b3b5542992097ad2f81",
+    "question": "Which restaurant chain's headquarters is further north, Pizza Inn or Papa Gino's?",
+    "key": "Papa Gino's",
+    "answers": [
+      "Unable to determine without additional context"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking which restaurant chain's headquarters is located further north between Pizza Inn and Papa Gino's. However, there is no context provided to determine the locations of their headquarters. I need to look up the locations of both restaurant chains to answer the question accurately. Action: Finish[Unable to determine without additional context]\nAction: Finish[Unable to determine without additional context]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5a82ebb855429966c78a6a9c",
+    "question": "whats the famous bavagheet by arun date?",
+    "key": "Shukratara",
+    "answers": [
+      "Insufficient information to answer"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about a famous work or piece by Arun Date, specifically referring to \"bavagheet.\" However, I don't have any context or information about Arun Date or his works. I need to think about what I know or can infer. Since I don't have any relevant context to draw from, I cannot provide an accurate answer. Action: Finish[Insufficient information to answer]\nAction: Finish[Insufficient information to answer]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5add596f5542990dbb2f7e4d",
+    "question": "Grown-Ups starred the actor who was best known for which role on  \"'Allo 'Allo!\"?",
+    "key": "Captain Hans Geering",
+    "answers": [
+      "René Artois"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about the actor from the film \"Grown-Ups\" and their notable role in the television series \"'Allo 'Allo!\". I need to recall the actor associated with \"Grown-Ups\" and the character they portrayed in \"'Allo 'Allo!\". The actor from \"Grown-Ups\" is likely to be someone who had a significant role in that series. Action: Finish[René Artois]\nAction: Finish[René Artois]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5a8e60ca5542995a26add4d9",
+    "question": "In which movie the Stephanie Kay Panabaker was alongside with her elder sister Danielle Nicole Panabaker?",
+    "key": "\"Read It and Weep\" (2006)",
+    "answers": [
+      "Read It and Weep"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for a movie in which both Stephanie Kay Panabaker and her elder sister Danielle Nicole Panabaker appeared together. However, the context provided is empty, so I need to rely on my prior knowledge. I know that they both appeared in the Disney Channel movie \"Read It and Weep.\" Action: Finish[Read It and Weep]\nAction: Finish[Read It and Weep]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ac4db1d554299076e296e1a",
+    "question": "who is a British physicist  and also a  British government's chief scientific adviser",
+    "key": "Frederick Alexander",
+    "answers": [
+      "Sir Patrick Vallance"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the name of a British physicist who also serves as the chief scientific adviser to the British government. I need to recall any notable figures who fit this description. One prominent individual who has held this position is Sir Patrick Vallance. Action: Finish[Sir Patrick Vallance]\nAction: Finish[Sir Patrick Vallance]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5ae7a8d35542994a481bbdbb",
+    "question": "Which contest in California pays homage to an American novelist that won the Novel Prize in Literature in 1954?",
+    "key": "The Bad Hemingway Contest",
+    "answers": [
+      "Ernest Hemingway Festival"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about a contest in California that honors an American novelist who won the Nobel Prize in Literature in 1954. The only American novelist who fits this description is Ernest Hemingway. Therefore, I need to think about contests related to him. One well-known contest that pays homage to Hemingway is the \"Ernest Hemingway Festival\" or similar events that celebrate his work and legacy. Action: Finish[Ernest Hemingway Festival]\nAction: Finish[Ernest Hemingway Festival]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5a8db348554299068b959dc2",
+    "question": "What is the subsidiary of the record company who released \"Love Incredible?\"",
+    "key": "Vivendi S.A.",
+    "answers": [
+      "Insufficient information to answer"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the subsidiary of the record company that released the song \"Love Incredible.\" However, there is no context provided to identify the record company or its subsidiary. Without additional information, I cannot determine the answer. Action: Finish[Insufficient information to answer]\nAction: Finish[Insufficient information to answer]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5adcbb815542994ed6169bde",
+    "question": "Beer Wars covers the differences between large corporate breweries, and small breweries, such as what brewery that is headquartered in Escondido, california?",
+    "key": "Stone Brewing",
+    "answers": [
+      "Stone Brewing"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the name of a brewery headquartered in Escondido, California, which is likely a small brewery mentioned in the context of Beer Wars. I recall that Stone Brewing is a well-known brewery located in Escondido. Action: Finish[Stone Brewing]\nAction: Finish[Stone Brewing]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ac532335542994611c8b41c",
+    "question": "Howard Van Doren Shaw was the designer of which 1917 Progressive Era community? ",
+    "key": "Marktown",
+    "answers": [
+      "Lake Forest"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about a specific community designed by Howard Van Doren Shaw during the Progressive Era in 1917. However, the context provided is empty, so I need to rely on my prior knowledge. Howard Van Doren Shaw is known for designing the community of \"Lake Forest,\" which is often associated with his work during that time. Action: Finish[Lake Forest]\nAction: Finish[Lake Forest]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5ab94fa25542996be2020474",
+    "question": "What is represented on the cover art of the studio album that includes the song \"Speed of Sound\"?",
+    "key": "Baudot code",
+    "answers": [
+      "The cover art of the album \"X&Y\" by Coldplay features a black background with colored squares in a grid pattern."
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about the cover art of a specific studio album that features the song \"Speed of Sound.\" However, the relevant context provided is empty, so I need to recall what I know. \"Speed of Sound\" is a song by Coldplay, which is included in their album \"X&Y.\" The cover art of \"X&Y\" features a simple design with a black background and a series of colored squares arranged in a grid pattern. Action: Finish[The cover art of the album \"X&Y\" by Coldplay features a black background with colored squares in a grid pattern.]\nAction: Finish[The cover art of the album \"X&Y\" by Coldplay features a black background with colored squares in a grid pattern.]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5a7ca0ef55429907fabeefd3",
+    "question": "Which professional tennis player was born first, Lucie Hradecká or Raffaella Reggi?",
+    "key": "Raffaella Reggi",
+    "answers": [
+      "Raffaella Reggi"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking which of the two professional tennis players, Lucie Hradecká or Raffaella Reggi, was born first. I need to find out their birth years to determine who was born earlier. Lucie Hradecká was born on July 23, 1985, while Raffaella Reggi was born on July 21, 1963. Comparing these dates, Raffaella Reggi was born earlier than Lucie Hradecká.Action: Finish[Raffaella Reggi]\nAction: Finish[Raffaella Reggi]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ab915ad55429919ba4e239c",
+    "question": "Who did Muhummad Ali fight next, in Houston, after the so-called Fight of the Century with Joe Frazier?",
+    "key": "Jimmy Ellis",
+    "answers": [
+      "Ken Norton"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about Muhammad Ali's next fight in Houston after his famous bout with Joe Frazier, known as the Fight of the Century. However, the relevant context is empty, so I need to recall historical information. After the Fight of the Century, Muhammad Ali fought Ken Norton in Houston on March 31, 1973. Action: Finish[Ken Norton]\nAction: Finish[Ken Norton]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5a7a5b3a5542996c55b2dd71",
+    "question": "What building is opposite the ceremonial meeting place of the Accession Council in the United Kingdom?",
+    "key": "Mark Masons' Hall",
+    "answers": [
+      "Insufficient information to answer"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about a specific building in relation to the ceremonial meeting place of the Accession Council in the United Kingdom. However, the context provided is empty, and I do not have any information about the Accession Council or its location. Without additional context, I cannot determine the answer to the question. Action: Finish[Insufficient information to answer]\nAction: Finish[Insufficient information to answer]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5abbd3ac55429931dba1458b",
+    "question": "Are both Duke Energy and Affiliated Managers Group based in Massachusetts?",
+    "key": "no",
+    "answers": [
+      "No"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking whether both Duke Energy and Affiliated Managers Group are based in Massachusetts. However, I don't have any relevant context provided about the locations of these companies. I need to recall that Duke Energy is actually based in North Carolina, while Affiliated Managers Group is based in Massachusetts. Therefore, only one of them is based in Massachusetts.Action: Finish[No]\nAction: Finish[No]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a72dcb45542992359bc31af",
+    "question": "What company did Rex Maughan aquire?",
+    "key": "Aloe Vera of America",
+    "answers": [
+      "Insufficient information"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The context provided is empty, which means I have no information to draw from regarding Rex Maughan or any company he may have acquired. Therefore, I cannot determine the answer to the question based on the given context.Action: Finish[Insufficient information]\nAction: Finish[Insufficient information]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5ae6316d5542996de7b71b87",
+    "question": "Which FC Barcelona signee was a contender for the Rookie of the Year Award when he played for the Timberwolves?",
+    "key": "Ricard Rubio i Vives",
+    "answers": [
+      "Unable to answer due to lack of context"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about a specific player who signed with FC Barcelona and was also a contender for the Rookie of the Year Award while playing for the Timberwolves. However, the provided context is empty, so I don't have any information to reference. Action: Finish[Unable to answer due to lack of context]\nAction: Finish[Unable to answer due to lack of context]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5ae1e22a5542997f29b3c160",
+    "question": "The role of \"Celene\" in the film \"Walk All over Me\" was played by an actress that voices what role in the \"Starcraft 2\" triolgy?",
+    "key": "Sarah Kerrigan",
+    "answers": [
+      "Nova"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about the actress who played the role of \"Celene\" in \"Walk All Over Me\" and what role she voices in the \"Starcraft 2\" trilogy. However, the relevant context is empty, so I need to recall what I know. The actress who played Celene is Liane Balaban, but I need to determine her role in \"Starcraft 2.\" In \"Starcraft 2,\" the character she voices is \"Nova.\" Action: Finish[Nova]\nAction: Finish[Nova]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5ac3af895542995ef918c1f0",
+    "question": "Janne Kyttanen has had work exhibited at which modern art museum in Amsterdam?",
+    "key": "Stedelijk Museum Amsterdam",
+    "answers": [
+      "Stedelijk Museum"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about a specific modern art museum in Amsterdam where Janne Kyttanen's work has been exhibited. However, there is no context provided to help answer this question. I need to recall any general knowledge I might have about Janne Kyttanen and modern art museums in Amsterdam. Action: Finish[Stedelijk Museum]\nAction: Finish[Stedelijk Museum]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ade4801554299728e26c6ab",
+    "question": "Wolf and Sheep was screened at which 2016 film festival?",
+    "key": "69th Cannes Film Festival",
+    "answers": [
+      "Cannes Film Festival"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about the film \"Wolf and Sheep\" and its screening at a specific film festival in 2016. However, the context provided is empty, and I don't have any information about the film or its festival screenings. I need to recall any general knowledge I may have about the film. \"Wolf and Sheep\" is known to have been screened at the Cannes Film Festival in 2016. Action: Finish[Cannes Film Festival]\nAction: Finish[Cannes Film Festival]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5a9064c755429916514e74a6",
+    "question": "What is the first name of Jack Benny Binion's father?",
+    "key": "Lester",
+    "answers": [
+      "Unknown"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the first name of Jack Benny Binion's father. However, the context provided is empty, and I don't have any information about Jack Benny Binion or his family. Without any relevant context, I cannot determine the answer. Action: Finish[Unknown]\nAction: Finish[Unknown]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5addc79d5542995b365fab7b",
+    "question": "Which episode of SpongeBob SquarePants aired first, The Clash of Triton or To SquarePants or Not to SquarePants?\"",
+    "key": "To SquarePants or Not to SquarePants",
+    "answers": [
+      "To SquarePants or Not to SquarePants"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking which episode aired first between \"The Clash of Triton\" and \"To SquarePants or Not to SquarePants.\" Since there is no context provided, I need to rely on my knowledge. \"The Clash of Triton\" is a TV movie that aired in 2010, while \"To SquarePants or Not to SquarePants\" is an episode from 2009. Therefore, \"To SquarePants or Not to SquarePants\" aired first. Action: Finish[To SquarePants or Not to SquarePants]\nAction: Finish[To SquarePants or Not to SquarePants]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a83a31c554299123d8c2179",
+    "question": "Who is the lead vocalist for Maroon 5's sixth studio album?",
+    "key": "Adam Levine",
+    "answers": [
+      "Adam Levine"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the lead vocalist of Maroon 5's sixth studio album. Since the context is empty, I need to rely on my general knowledge. Maroon 5's lead vocalist is Adam Levine. Action: Finish[Adam Levine]\nAction: Finish[Adam Levine]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a79caad5542994f819ef09f",
+    "question": "Which professional baseball player was born in 1984 and played as a rookie for the Los Angeles Dogers in 2007?",
+    "key": "Matthew Ryan Kemp",
+    "answers": [
+      "Matt Kemp"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for a specific professional baseball player who was born in 1984 and made their rookie debut with the Los Angeles Dodgers in 2007. Since there is no relevant context provided, I need to rely on my general knowledge. The player that fits this description is Clayton Kershaw, who was born in 1988, so he does not fit the birth year. However, another player who debuted in 2007 is Matt Kemp, who was born in 1984. Action: Finish[Matt Kemp]\nAction: Finish[Matt Kemp]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a72830e5542994cef4bc2f9",
+    "question": "Where is the company that distributed XXXTentacion's single \"Revenge\" based?",
+    "key": "San Francisco, California",
+    "answers": [
+      "Unknown"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the location of the company that distributed XXXTentacion's single \"Revenge.\" However, there is no context provided to determine the answer. I need to recall any relevant information about the distribution of the single. Action: Finish[Unknown]\nAction: Finish[Unknown]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5ab700ca5542991d32223736",
+    "question": "Which other film did one of the supporting cast in \"Sleepless in Seattle\" appear?",
+    "key": "\"Now and Then\" (1995)",
+    "answers": [
+      "Insufficient information to answer"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about a supporting cast member from \"Sleepless in Seattle\" and their appearance in another film. However, there is no context provided that mentions any supporting cast members or their filmography. Without specific details, I cannot accurately answer the question. Action: Finish[Insufficient information to answer]\nAction: Finish[Insufficient information to answer]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5a8bd49d5542997f31a41dd7",
+    "question": "Who is this American cartoonist, writer, producer, animator, and voice actor that worked with this multiple Shuster Award, Harvey Award and Eisner Award nominee and an Eisner Award–winning comic book creator?",
+    "key": "Matt Groening",
+    "answers": [
+      "Unknown"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the identity of an American cartoonist, writer, producer, animator, and voice actor who has worked with someone who has received multiple awards including the Shuster Award, Harvey Award, and Eisner Award. However, without any specific context or names provided, I cannot determine who this individual is. Action: Finish[Unknown]\nAction: Finish[Unknown]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5ae0a59a55429945ae9593e2",
+    "question": "This Celtic ruler who was born in AD 43 ruled southeastern Britain prior to conquest by which empire?",
+    "key": "Roman",
+    "answers": [
+      "Roman Empire"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about a Celtic ruler born in AD 43 who ruled southeastern Britain before it was conquered by an empire. Since the context is empty, I need to rely on my knowledge. The Celtic ruler in question is likely Caratacus, who was a notable leader during the Roman conquest of Britain. The empire that conquered southeastern Britain was the Roman Empire. Action: Finish[Roman Empire]\nAction: Finish[Roman Empire]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ae4d3a55542990ba0bbb164",
+    "question": "What creature of American folklore gained notoriety in 1964?",
+    "key": "Dewey Lake Monster",
+    "answers": [
+      "Mothman"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question refers to a creature from American folklore that became well-known in 1964. While the context is empty, I can recall that the creature that gained notoriety during that time is the \"Mothman,\" which was reported in Point Pleasant, West Virginia. Action: Finish[Mothman]\nAction: Finish[Mothman]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5abaca935542996606241610",
+    "question": "\"Text Me Merry Christmas\" is a song performed by Kristen Bell and a group that originated at what univeristy?",
+    "key": "Indiana University",
+    "answers": [
+      "University of Texas at Arlington"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about the university that the group, which performed \"Text Me Merry Christmas\" alongside Kristen Bell, originated from. Since there is no context provided, I need to recall that the group is known as the \"Pentatonix,\" which originated from the University of Texas at Arlington. Action: Finish[University of Texas at Arlington]\nAction: Finish[University of Texas at Arlington]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5a776fc15542997042120a3a",
+    "question": "What is the mascot of the oldest private university in Georgia?",
+    "key": "The Bears",
+    "answers": [
+      "Swoop"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the mascot of the oldest private university in Georgia. However, the relevant context is empty, which means I don't have specific information about the university or its mascot. I need to recall what I know about private universities in Georgia. Emory University is known to be one of the oldest private universities in Georgia, and its mascot is Swoop, a blue jay. Action: Finish[Swoop]\nAction: Finish[Swoop]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5ab3ede755429976abd1bcf4",
+    "question": "Who directed the 1940 film in which John Arledge appeared?",
+    "key": "John Ford",
+    "answers": [
+      "Unknown"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question asks for the director of a specific 1940 film featuring John Arledge. However, the context provided is empty, so I don't have any information about the film or its director. Without additional details, I cannot determine the answer. Action: Finish[Unknown]\nAction: Finish[Unknown]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5ab29346554299545a2cf997",
+    "question": "What CBS-affiliated station serves Pontotoc County, Oklahoma?",
+    "key": "KXII",
+    "answers": [
+      "KXII"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the CBS-affiliated station that serves Pontotoc County, Oklahoma. Since there is no relevant context provided, I will rely on general knowledge. The CBS-affiliated station that typically serves that area is KXII, which is located in Sherman, Texas, and covers parts of southern Oklahoma, including Pontotoc County. Action: Finish[KXII]\nAction: Finish[KXII]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ac097b05542996f0d89cc18",
+    "question": "Are Ruggero Deodato from Italy, and Mexican Alejandro Springall, both film directors?",
+    "key": "yes",
+    "answers": [
+      "Yes"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking whether both Ruggero Deodato and Alejandro Springall are film directors, with the added detail that one is from Italy and the other from Mexico. Since I have no context provided about their careers or backgrounds, I need to rely on general knowledge. Ruggero Deodato is known for his work in the horror genre, particularly for directing \"Cannibal Holocaust,\" and Alejandro Springall is recognized for his contributions to Mexican cinema. Therefore, I can conclude that both individuals are indeed film directors. Action: Finish[Yes]\nAction: Finish[Yes]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a80071f5542992bc0c4a684",
+    "question": "Alice David is the voice of Lara Croft in a video game developed by which company ?",
+    "key": "Crystal Dynamics",
+    "answers": [
+      "Crystal Dynamics"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the company that developed the video game featuring Lara Croft, voiced by Alice David. Since there is no context provided, I need to rely on my general knowledge. Lara Croft is a character from the \"Tomb Raider\" series, which is developed by Crystal Dynamics and was originally created by Core Design. However, the most recent games have been developed by Crystal Dynamics. Action: Finish[Crystal Dynamics]\nAction: Finish[Crystal Dynamics]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ae08a0455429924de1b70fc",
+    "question": "Which German project recorded a song that featured vocals by a duo from Silverdale, England?",
+    "key": "Enigma",
+    "answers": [
+      "Insufficient information to answer"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about a specific German project that recorded a song with vocals by a duo from Silverdale, England. However, the context provided is empty, which means I don't have any information to work with. Without any relevant details, I can't determine the answer to this question. Action: Finish[Insufficient information to answer]\nAction: Finish[Insufficient information to answer]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5ab484415542990594ba9c44",
+    "question": "Which facility was founded in Missouri, Discovery Zone or Valentino's?",
+    "key": "Discovery Zone",
+    "answers": [
+      "Discovery Zone"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking which facility was founded in Missouri between Discovery Zone and Valentino's. I need to recall the origins of both establishments. Discovery Zone, an entertainment center for children, was indeed founded in Missouri, while Valentino's is a restaurant chain that originated in Nebraska. Therefore, the answer should be Discovery Zone.Action: Finish[Discovery Zone]\nAction: Finish[Discovery Zone]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a716ec85542994082a3e82d",
+    "question": "Which movie was filmed first \"The Guest\" or \"You're Next\"?",
+    "key": "You're Next",
+    "answers": [
+      "You're Next"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking which of the two movies, \"The Guest\" or \"You're Next,\" was filmed first. I need to recall the release dates or production timelines of both films to determine which one came out earlier. After considering the release dates, \"You're Next\" was released in 2011, while \"The Guest\" was released in 2014. Therefore, \"You're Next\" was filmed first.Action: Finish[You're Next]\nAction: Finish[You're Next]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a81c7d15542990a1d231ea9",
+    "question": "Which services did Rock Nominees Ltd and  ISS A/S (Integrated Service Solutions) have in common?",
+    "key": "cleaning, catering and security",
+    "answers": [
+      "Insufficient information to determine common services"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about the common services provided by Rock Nominees Ltd and ISS A/S. However, the context provided is empty, which means I don't have any specific information about the services offered by either company. Without additional details, I cannot determine the common services. Action: Finish[Insufficient information to determine common services]\nAction: Finish[Insufficient information to determine common services]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5ade25ed5542997c77aded70",
+    "question": "During what war were the Russia-United Kingdom relations in a state of rivalry after the abdication of Emperor Nicholas II? ",
+    "key": "the Cold War (1947–91)",
+    "answers": [
+      "World War I"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about the specific war that caused rivalry between Russia and the United Kingdom following the abdication of Emperor Nicholas II. Since there is no context provided, I need to recall historical events. The abdication of Emperor Nicholas II occurred during World War I, which led to significant changes in alliances and rivalries. Therefore, the war in question is World War I. Action: Finish[World War I]\nAction: Finish[World War I]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5abba3cd554299642a094aee",
+    "question": "How many different schools does the university, in which Andrew J. Elliot is a professor of psychology, have?",
+    "key": "six",
+    "answers": [
+      "Unable to determine"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The context provided is empty, which means I don't have any specific information about the university or the number of schools it has. Without any relevant details, I cannot determine the answer to the question. Action: Finish[Unable to determine]\nAction: Finish[Unable to determine]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5a89dd4d554299669944a5e3",
+    "question": "Flower Alley was bred by the trainer who was killed at what Fayette County, Kentucky airport?",
+    "key": "Blue Grass Airport",
+    "answers": [
+      "Unable to answer without context"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question refers to an incident involving a trainer who was killed at a specific airport in Fayette County, Kentucky. However, without any relevant context provided, I don't have the necessary information to answer the question accurately. I need to know the name of the airport or any related details to provide a proper response. Action: Finish[Unable to answer without context]\nAction: Finish[Unable to answer without context]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5ac540365542994611c8b470",
+    "question": "Loughborough Students' Union serves the students at what public research university that has been a university since 1966, but the institution dates back to 1909?",
+    "key": "Loughborough University",
+    "answers": [
+      "Loughborough University"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the name of the public research university associated with Loughborough Students' Union, which has been a university since 1966 but has origins dating back to 1909. Based on the context provided, I can deduce that this university is Loughborough University. Action: Finish[Loughborough University]\nAction: Finish[Loughborough University]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a811667554299260e20a23d",
+    "question": "What occupations do both Ian Hunter and Rob Thomas have?",
+    "key": "singer, songwriter",
+    "answers": [
+      "Musician and Songwriter"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about the occupations of Ian Hunter and Rob Thomas. Since the context is empty, I will rely on general knowledge. Ian Hunter is known as a musician and songwriter, particularly recognized as the lead singer of the band Mott the Hoople. Rob Thomas is also a musician and songwriter, best known as the lead singer of the band Matchbox Twenty. Therefore, both individuals share the occupation of being musicians and songwriters. Action: Finish[Muscian and Songwriter]\nAction: Finish[Musician and Songwriter]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ae199305542997b2ef7d20e",
+    "question": "In what european city is a location of the college from which the woman known as Comic Book Girl 19 received her degree?",
+    "key": "Lacoste, France",
+    "answers": [
+      "Insufficient information to answer"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the European city where the college attended by Comic Book Girl 19 is located. However, the context provided is empty, and I do not have any information about her college or its location. Without this information, I cannot accurately answer the question. Action: Finish[Insufficient information to answer]\nAction: Finish[Insufficient information to answer]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5ae789615542997ec2727695",
+    "question": "Kam Heskin plays Paige Morgan in a 2004 film directed by who?",
+    "key": "Martha Coolidge",
+    "answers": [
+      "Unknown, as no context provided"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the director of the 2004 film in which Kam Heskin plays Paige Morgan. However, there is no relevant context provided to identify the film or its director. I need to recall any general knowledge I have about films from 2004 that feature Kam Heskin. Action: Finish[Unknown, as no context provided]\nAction: Finish[Unknown, as no context provided]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5a8a5a1955429930ff3c0da7",
+    "question": "In what year was the Sayrevill, New Jersey rock band that Frankie LaRocka played drums for formed?",
+    "key": "1983",
+    "answers": [
+      "Insufficient information"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the formation year of a specific rock band from Sayreville, New Jersey, that Frankie LaRocka played drums for. However, there is no relevant context provided to determine the name of the band or the year it was formed. Without this information, I cannot provide an answer. Action: Finish[Insufficient information]\nAction: Finish[Insufficient information]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5a7bc0755542995eb53be9a5",
+    "question": "The series of novels that reference numerous locations and incorporates themes from multiple genres is titled what?",
+    "key": "The Dark Tower",
+    "answers": [
+      "The Dark Tower"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the title of a series of novels that references various locations and incorporates themes from multiple genres. Since there is no context provided, I need to think about well-known series that fit this description. One prominent example is \"The Dark Tower\" series by Stephen King, which weaves together different genres and settings. However, without specific context, it's challenging to determine the exact series being referred to. Action: Finish[The Dark Tower]\nAction: Finish[The Dark Tower]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ae7535c5542997b22f6a6d8",
+    "question": "The 53rd National Hockey League All-Star Game took place at the indoor arena that was completed in what year?",
+    "key": "1998",
+    "answers": [
+      "Insufficient information to answer"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the year when the indoor arena for the 53rd National Hockey League All-Star Game was completed. However, there is no relevant context provided to determine the specific arena or its completion year. Without this information, I cannot accurately answer the question. Action: Finish[Insufficient information to answer]\nAction: Finish[Insufficient information to answer]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5ac1a6bf5542991316484b8d",
+    "question": "In what state did this band form that is an American metalcore band, founded in mid-2009, and whose lead vocalist was Jerry Roush?",
+    "key": "California",
+    "answers": [
+      "Unknown"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the state where the American metalcore band formed, which was founded in mid-2009 and had Jerry Roush as the lead vocalist. However, the context provided is empty, so I don't have any specific information about the band's formation or location. Action: Finish[Unknown]\nAction: Finish[Unknown]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5a75e67d5542992db9473709",
+    "question": "What was a series of battles during the Revolutionary War, for control of New York City and the state of New Jersey, fought on October 28, 1776 near White Plains, New York?",
+    "key": "New York and New Jersey campaign",
+    "answers": [
+      "Battle of White Plains"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for a specific series of battles that occurred during the Revolutionary War, particularly around New York City and New Jersey, on a specific date. Since the context is empty, I need to rely on my prior knowledge. The battles fought near White Plains, New York, on October 28, 1776, are known as the Battle of White Plains. Action: Finish[Battle of White Plains]\nAction: Finish[Battle of White Plains]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5a807ca5554299485f598613",
+    "question": "Where was the original line of the railroad William Howard worked for?",
+    "key": "the port of Baltimore west to Sandy Hook",
+    "answers": [
+      "Insufficient information to answer"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the location of the original line of the railroad that William Howard worked for. However, there is no context provided to determine which railroad or its original line. Without any specific information about William Howard or the railroad in question, I cannot provide an answer. Action: Finish[Insufficient information to answer]\nAction: Finish[Insufficient information to answer]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5adf95745542995534e8c7f8",
+    "question": "Where does Śivarāma Swami conduct courses on Vaishnava Theology?",
+    "key": "in the village of Aldenham",
+    "answers": [
+      "Insufficient information to answer"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about the location where Śivarāma Swami conducts courses on Vaishnava Theology. However, there is no relevant context provided to answer this question. I need more information to determine the location. Action: Finish[Insufficient information to answer]\nAction: Finish[Insufficient information to answer]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5a87b2fc5542996e4f3088d0",
+    "question": "Who wrote the book that inspired the name of the CD/DVD \"Here at the End of All Things\"?",
+    "key": "J. R. R. Tolkien",
+    "answers": [
+      "Unknown"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the author of the book that inspired the name of the CD/DVD \"Here at the End of All Things.\" However, there is no relevant context provided to determine the answer. Without additional information, I cannot accurately respond. Action: Finish[Unknown]\nAction: Finish[Unknown]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5adf3c155542993a75d2643a",
+    "question": "What is the given name of the character depicted as Juliet Hulme in Heavenly Creatures?",
+    "key": "Anne Perry",
+    "answers": [
+      "Juliet"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the given name of the character portrayed as Juliet Hulme in the film \"Heavenly Creatures.\" However, there is no relevant context provided to help answer this question. Based on my knowledge, I know that Juliet Hulme is a character based on the real-life person who was involved in a notorious crime in New Zealand. Action: Finish[Juliet]\nAction: Finish[Juliet]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5adf1b8a5542995534e8c750",
+    "question": "What band did Gator Country guitarist that co-wrote Bloody Reunion come from?",
+    "key": "Molly Hatchet",
+    "answers": [
+      "Gator Country"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about the band associated with the Gator Country guitarist who co-wrote \"Bloody Reunion.\" However, the context provided is empty, so I don't have any specific information to draw from. I need to recall general knowledge about Gator Country and its members. Action: Finish[Gator Country]\nAction: Finish[Gator Country]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5a80721b554299485f5985ef",
+    "question": "The Livesey Hal War Memorial commemorates the fallen of which war, that had over 60 million casualties?",
+    "key": "World War II",
+    "answers": [
+      "World War II"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about the war that had over 60 million casualties and is commemorated by the Livesey Hal War Memorial. Based on historical knowledge, the war with such a high casualty count is World War II. Action: Finish[World War II]\nAction: Finish[World War II]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a87081755429960ec39b6fe",
+    "question": "Jessica Jones is a television series created for Netflix, the second in the series of the shows that lead to \"The Defenders\" miniseries after what show released on Netflix earlier?",
+    "key": "Daredevil",
+    "answers": [
+      "Daredevil"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the show that was released on Netflix prior to Jessica Jones and is part of the same series leading to \"The Defenders.\" I know that the first show in this series was \"Daredevil.\" Action: Finish[Daredevil]\nAction: Finish[Daredevil]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5adcdea85542992c1e3a2441",
+    "question": "What film adaptation do both Jerome Bernard and Ira Lewis have in common?",
+    "key": "Chinese Coffee",
+    "answers": [
+      "The Last of Mrs. Lincoln"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for a film adaptation that both Jerome Bernard and Ira Lewis are associated with. Since there is no context provided, I need to think about what I know. Jerome Bernard is known for his work on \"The Last of Mrs. Lincoln,\" and Ira Lewis is known for adapting \"The Last of Mrs. Lincoln\" for the stage. Therefore, they both have this adaptation in common.Action: Finish[The Last of Mrs. Lincoln]\nAction: Finish[The Last of Mrs. Lincoln]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5ac509e95542994611c8b333",
+    "question": "The chicken is a type of dance pattern that is a change of pace of what dance?",
+    "key": "the Twist",
+    "answers": [
+      "Polka"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about the dance that the chicken dance pattern changes pace from. Since there is no context provided, I need to rely on general knowledge. The chicken dance is often associated with polka music and is typically performed at festive occasions. Therefore, it is likely a change of pace from the polka dance. Action: Finish[Polka]\nAction: Finish[Polka]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5a85fb085542994775f606de",
+    "question": "What is the name of the executive producer of the film that has a score composed by Jerry Goldsmith?",
+    "key": "Ronald Shusett",
+    "answers": [
+      "Unknown"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The context provided is empty, so I don't have any specific information about the film or its executive producer. However, I know that Jerry Goldsmith composed scores for many films. Without additional context, I cannot accurately determine the executive producer of a film associated with him. Action: Finish[Unknown]\nAction: Finish[Unknown]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5a8b42be55429949d91db515",
+    "question": "What profession does John Lanchester and Alan Dean Foster have in common?",
+    "key": "novelist",
+    "answers": [
+      "Writers"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question asks about the common profession of John Lanchester and Alan Dean Foster. Since there is no context provided, I need to recall what I know about these individuals. John Lanchester is known as a novelist and essayist, while Alan Dean Foster is recognized as a science fiction and fantasy author. Both are writers, which is their common profession. Action: Finish[Writers]\nAction: Finish[Writers]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5ab9b2c7554299743d22ebaf",
+    "question": "Are both Lygodium or Maxillaria a genus of orchids?",
+    "key": "no",
+    "answers": [
+      "No"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking whether both Lygodium and Maxillaria are genera of orchids. However, I need to consider what I know about these two names. Lygodium is actually a genus of ferns, not orchids, while Maxillaria is indeed a genus of orchids. Therefore, the answer to the question is no, both are not genera of orchids.Action: Finish[No]\nAction: Finish[No]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ab322b1554299194fa93570",
+    "question": "Which type of character is featured by the P.L. Travers's third book and last novel in the \"Mary Poppins\" series?",
+    "key": "fictional character",
+    "answers": [
+      "Mary Poppins"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about the type of character featured in P.L. Travers's third book and last novel in the \"Mary Poppins\" series. However, the context provided is empty, so I need to rely on my general knowledge. In the \"Mary Poppins\" series, the character Mary Poppins is a magical and whimsical nanny, and the stories often feature fantastical elements and characters. Action: Finish[Mary Poppins]\nAction: Finish[Mary Poppins]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5a79c1335542994bb9457066",
+    "question": "Eric Ambler and Carol Shields are both best Known for what profession?",
+    "key": "author",
+    "answers": [
+      "Writers"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about the profession for which Eric Ambler and Carol Shields are best known. Since there is no context provided, I need to think about what I know about these individuals. Eric Ambler was a British author known for his spy novels, while Carol Shields was a Canadian author known for her novels and short stories. Both are primarily recognized as writers. Action: Finish[Writers]\nAction: Finish[Writers]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a774e9c55429972597f14f3",
+    "question": "David Huntsinger has worked with this gospel singer born in the month of July?",
+    "key": "Larnelle Harris",
+    "answers": [
+      "Insufficient information to answer"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about a gospel singer who was born in July and has worked with David Huntsinger. However, without any context or specific names provided, I cannot determine which gospel singer is being referred to. Action: Finish[Insufficient information to answer]\nAction: Finish[Insufficient information to answer]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5a7b63eb55429931da12ca7e",
+    "question": "What city does Paul Clyne and David Soares have in common?",
+    "key": "New York",
+    "answers": [
+      "Unable to determine"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The context provided is empty, which means I don't have any specific information about Paul Clyne or David Soares, or any cities associated with them. Without additional context, I cannot determine what city they have in common. Action: Finish[Unable to determine]\nAction: Finish[Unable to determine]\nObservation: Answer is INCORRECT"
+  },
+  {
+    "id": "5a7ea14655429930675135ab",
+    "question": "What giant silverware company was started as a religious Utopian group and was for many years run by Pierrepont Noyes?",
+    "key": "Oneida Limited",
+    "answers": [
+      "Oneida"
+    ],
+    "is_correct": false,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about a giant silverware company that has a unique origin as a religious Utopian group and was notably run by Pierrepont Noyes. I recall that the company in question is Oneida, which was founded by a group with Utopian beliefs and has a significant history in the silverware industry. Action: Finish[Oneida]\nAction: Finish[Oneida]\nObservation: Answer is INCORRECT"
+  }
+]

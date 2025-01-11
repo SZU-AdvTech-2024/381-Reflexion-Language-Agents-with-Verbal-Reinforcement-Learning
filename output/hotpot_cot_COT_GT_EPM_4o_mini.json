@@ -1,0 +1,1188 @@
+[
+  {
+    "id": "5a8e27d45542995a26add46a",
+    "question": "Jaclyn Stapp is married to the former frontman of a band that disbanded in what year?",
+    "key": "2004",
+    "answers": [
+      "2004"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the year when the band Creed disbanded. Based on the context provided, Creed disbanded in 2004 due to increasing tension between its members. Action: Finish[2004]\nAction: Finish[2004]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a7613c15542994ccc9186bf",
+    "question": "VIVA Media AG changed it's name in 2004. What does their new acronym stand for?",
+    "key": "Gesellschaft mit beschränkter Haftung",
+    "answers": [
+      "Gesellschaft mit beschränkter Haftung"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the meaning of the acronym \"GmbH\" that VIVA Media AG adopted after changing its name in 2004. Based on the context, \"GmbH\" stands for \"Gesellschaft mit beschränkter Haftung,\" which is a type of legal entity in Germany. Action: Finish[Gesellschaft mit beschränkter Haftung]\nAction: Finish[Gesellschaft mit beschränkter Haftung]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a7180205542994082a3e856",
+    "question": "The creator of \"Wallace and Gromit\" also created what animation comedy that matched animated zoo animals with a soundtrack of people talking about their homes? ",
+    "key": "Creature Comforts",
+    "answers": [
+      "Creature Comforts"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the name of the animation comedy that was created by the same person who created \"Wallace and Gromit.\" From the context, I know that Nick Park created \"Creature Comforts,\" which matches animated zoo animals with a soundtrack of people discussing their homes. Action: Finish[Creature Comforts]\nAction: Finish[Creature Comforts]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a881d2355429938390d3eeb",
+    "question": " If You Ever Get Lonely was covered by what Lyric Street Records-affiliated band?",
+    "key": "Love and Theft",
+    "answers": [
+      "Love and Theft"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the band that covered \"If You Ever Get Lonely\" and is affiliated with Lyric Street Records. Based on the context, I know that the American country music duo Love and Theft covered this song. Action: Finish[Love and Theft]\nAction: Finish[Love and Theft]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5adfdef9554299025d62a36b",
+    "question": "Where was the first governor after the The Missouri Compromise from?",
+    "key": "Bath, Maine",
+    "answers": [
+      "Bath, Maine"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about the first governor of Maine, who was elected after the Missouri Compromise. Based on the context, I know that William King was the first governor of Maine, and he was from Bath, Maine. Action: Finish[Bath, Maine]\nAction: Finish[Bath, Maine]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ae4a1ef55429970de88d9e7",
+    "question": "When was the  Argentine former footballer which  Dutch manager Ronald Koeman replaced in  2014–15 Southampton F.C. season born",
+    "key": "2 March 1972",
+    "answers": [
+      "2 March 1972"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the birth date of the Argentine former footballer who was replaced by Ronald Koeman at Southampton. From the context, I know that Mauricio Pochettino is the former footballer who was replaced, and his birth date is provided as 2 March 1972. Action: Finish[2 March 1972]\nAction: Finish[2 March 1972]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5adf2fa35542993344016c11",
+    "question": "Which of Jonny Craig and Pete Doherty has been a member of more bands ?",
+    "key": "Jonny\" Craig",
+    "answers": [
+      "Jonny Craig"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: To determine which musician has been a member of more bands, I need to analyze the information provided about both Jonny Craig and Peter Doherty. Jonny Craig has been the lead vocalist for five bands: Dance Gavin Dance, Emarosa, Ghost Runner on Third, Slaves, and westerHALTS. Additionally, he was part of the supergroup Isles & Glaciers. In total, that gives him six musical projects. On the other hand, Peter Doherty is known for being co-frontman of the Libertines and has also been involved with Babyshambles and Peter Doherty and the Puta Madres, totaling three musical projects. Since Jonny Craig has been involved in more bands than Peter Doherty, I can conclude my answer.Action: Finish[Jonny Craig]\nAction: Finish[Jonny Craig]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5adf5daf5542995534e8c79d",
+    "question": "Are Darren Benjamin Shepherd and Rémi Lange both American?",
+    "key": "no",
+    "answers": [
+      "No"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking if both Darren Benjamin Shepherd and Rémi Lange are American. From the context, I know that Darren Benjamin Shepherd is American, but Rémi Lange is French. Therefore, they are not both American. Action: Finish[No]\nAction: Finish[No]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5abe364e5542993f32c2a08e",
+    "question": "Lollipop Chainsaw featured Juliet Starling, who was voiced by a Canadian-American actress who has done voice roles for what Teen Titans spinoff series?",
+    "key": "Teen Titans Go!",
+    "answers": [
+      "Teen Titans Go!"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the Teen Titans spinoff series that the actress who voiced Juliet Starling has worked on. Based on the context, Tara Strong is the voice actress for Juliet Starling in Lollipop Chainsaw, and she has voiced characters in the spinoff series \"Teen Titans Go!\" Action: Finish[Teen Titans Go!]\nAction: Finish[Teen Titans Go!]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a7c49dc55429935c91b514f",
+    "question": "The head of the Foreign Relations Department of the Rastriya Janashakti Party holds a degree that can be abbreviated MS, M.S., or ScM, in what field?",
+    "key": "Engineering",
+    "answers": [
+      "Engineering"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about the field of the degree held by the head of the Foreign Relations Department of the Rastriya Janashakti Party, who is Hari Bahadur Basnet. From the context, I see that he holds a Master of Science (M.Sc.) in Engineering, which falls under the field of science and engineering. Action: Finish[Engineering]\nAction: Finish[Engineering]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a845d735542996488c2e52e",
+    "question": "Stronger Together was used for the campaign comprised of the Vice Presidential candidate who was a Senator from what state?",
+    "key": "Virginia",
+    "answers": [
+      "Virginia"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the state represented by the Vice Presidential candidate associated with the book \"Stronger Together.\" The context indicates that Tim Kaine, who was the Vice Presidential nominee in 2016, is the junior United States Senator from Virginia. Therefore, the answer should reflect that state.Action: Finish[Virginia]\nAction: Finish[Virginia]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ac557975542993e66e8231c",
+    "question": "What team was led to victory in 1939 by a two-time All-American basketball player nicknamed \"Scat\"?",
+    "key": "Oklahoma Sooners",
+    "answers": [
+      "Oklahoma Sooners"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about the team that was led to victory in 1939 by a player known as \"Scat.\" From the context, I know that Jimmy McNatt, nicknamed \"Scat,\" was a two-time All-American who led the Oklahoma Sooners to their first-ever NCAA Final Four in 1939. Action: Finish[Oklahoma Sooners]\nAction: Finish[Oklahoma Sooners]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5abd578a5542993062266c5d",
+    "question": "The W. H. Shipman House is in what Hawaii county?",
+    "key": "Hawaii County",
+    "answers": [
+      "Hawaii County"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the county where the W. H. Shipman House is located. From the context, I know that Hilo is the largest settlement in Hawaii County, and the W. H. Shipman House is associated with Hilo. Therefore, it is reasonable to conclude that the W. H. Shipman House is in Hawaii County. Action: Finish[Hawaii County]\nAction: Finish[Hawaii County]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a7dc3275542997cc2c4749c",
+    "question": "What stadium does the team who has Kent Baer as the defensive coordinator play its home games?",
+    "key": "Sam Boyd Stadium",
+    "answers": [
+      "Sam Boyd Stadium"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the stadium where the UNLV Rebels, the team for which Kent Baer is the defensive coordinator, play their home games. According to the context, the UNLV Rebels play at Sam Boyd Stadium in Whitney, Nevada. Action: Finish[Sam Boyd Stadium]\nAction: Finish[Sam Boyd Stadium]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ab5487b554299494045ef68",
+    "question": "Operation Cold Comfort was a failed raid by a special forces unit founded in what year?",
+    "key": "1941",
+    "answers": [
+      "1941"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the year the Special Air Service (SAS) was founded, which is mentioned in the context. According to the information provided, the SAS was founded in 1941. Action: Finish[1941]\nAction: Finish[1941]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ac2758b55429963665199c3",
+    "question": "The organization that Nicolae Titulescu served two terms as president was founded on what date?",
+    "key": "10 January 1920",
+    "answers": [
+      "10 January 1920"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the founding date of the organization where Nicolae Titulescu served as president. Based on the context, the League of Nations was founded on 10 January 1920. Action: Finish[10 January 1920]\nAction: Finish[10 January 1920]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a7b537555429927d897bf90",
+    "question": "The trophy given to the winner of the college football game between University of Idaho Vandals and University of Montana Grizzlies is derived from which European culture?",
+    "key": "German",
+    "answers": [
+      "German culture"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about the cultural origin of the trophy awarded in the college football rivalry between the University of Idaho Vandals and University of Montana Grizzlies. Given that the trophy is a beer stein, which is associated with German culture, I can conclude that the trophy is derived from this European culture. Action: Finish[German culture]\nAction: Finish[German culture]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a81e107554299676cceb12a",
+    "question": "Ed Oxenbould plays Tyler in a film directed by which famous director?",
+    "key": "M. Night Shyamalan",
+    "answers": [
+      "M. Night Shyamalan"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the director of the film \"The Visit,\" in which Ed Oxenbould plays the character Tyler. Based on the context, I know that \"The Visit\" was written and directed by M. Night Shyamalan. Action: Finish[M. Night Shyamalan]\nAction: Finish[M. Night Shyamalan]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5abdd0f15542991f6610604d",
+    "question": "The Rome Protocols were signed by three Prime Ministers one of which was assassinated as part of what?",
+    "key": "a failed coup attempt",
+    "answers": [
+      "a failed coup attempt"
+    ],
+    "is_correct": true,
+    "step_n": 2,
+    "reflections": [],
+    "scratchpad": "\nThought: The question asks about the nature of the event that led to the assassination of one of the Prime Ministers who signed the Rome Protocols. Based on the context, Engelbert Dollfuss, the Austrian Prime Minister, was assassinated as part of a failed coup attempt by Nazi agents in 1934. This indicates that the assassination was linked to political instability and opposition from the Nazi party. Action: Finish[a failed coup attempt]\nAction: Finish[a failed coup attempt]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ab6f7415542991d322236f4",
+    "question": "Sadok Sassi played for a national team that made its first World Cup in what year?",
+    "key": "1978",
+    "answers": [
+      "1978"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the year when the Tunisian national football team, which Sadok Sassi played for, first qualified for the World Cup. According to the context, Tunisia made its first World Cup appearance in 1978. Action: Finish[1978]\nAction: Finish[1978]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ac562985542993e66e823ca",
+    "question": "Otterington railway station was on a 393 mi major railway that linked Edinburgh to what city?",
+    "key": "London",
+    "answers": [
+      "London"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the city that is linked to Edinburgh by the major railway mentioned in the context. The context specifies that the East Coast Main Line connects Edinburgh to London. Therefore, the answer is clear. Action: Finish[London]\nAction: Finish[London]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a87bd4e5542994846c1cde0",
+    "question": "Are both Coldplay and Pierre Bouvier from the same country?",
+    "key": "no",
+    "answers": [
+      "No"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking whether Coldplay and Pierre Bouvier are from the same country. Coldplay is a British band formed in the UK, while Pierre Bouvier is Canadian. Therefore, they are not from the same country. Action: Finish[No]\nAction: Finish[No]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ab28a87554299449642c8ec",
+    "question": "This expansion of the 2008 magazine article \"Is Google Making Us Stoopid?\" was a finalist for what award?",
+    "key": "Pulitzer Prize",
+    "answers": [
+      "Pulitzer Prize"
+    ],
+    "is_correct": true,
+    "step_n": 2,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the award that the expansion of the 2008 magazine article \"Is Google Making Us Stoopid?\" was a finalist for. Based on the context provided, I know that the expansion, which is the book \"The Shallows,\" was a finalist for the 2011 Pulitzer Prize in General Nonfiction. However, the question only asks for the award in a more general sense, so I will refer to it simply as the Pulitzer Prize.Action: Finish[Pulitzer Prize]\nAction: Finish[Pulitzer Prize]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ae67def5542991bbc9760f3",
+    "question": "Kenneth L. Gile is the Chief Operating Officer of an airline with its head office in what airport?",
+    "key": "Dubai International Airport",
+    "answers": [
+      "Dubai International Airport"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the airport where the head office of the airline that Kenneth L. Gile operates is located. From the context, I know that Flydubai, the airline he is associated with, has its head office and flight operations in Terminal 2 of Dubai International Airport. Action: Finish[Dubai International Airport]\nAction: Finish[Dubai International Airport]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5adff056554299603e4183cc",
+    "question": "What year did The Chronicle of Philanthropy's publishing overlap with Antic?",
+    "key": "1988",
+    "answers": [
+      "1988"
+    ],
+    "is_correct": true,
+    "step_n": 2,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the specific year when the publishing of The Chronicle of Philanthropy overlapped with the publishing of Antic. Antic was published from April 1982 until June/July 1990, while The Chronicle of Philanthropy was founded in 1988. Therefore, the overlap in publishing years would start in 1988 and continue until the end of Antic's publication in 1990. The specific year when they overlapped is 1988. Action: Finish[1988]\nAction: Finish[1988]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5adeb78a554299728e26c77a",
+    "question": "In what state is the manufacturer of Bisquick headquartered?",
+    "key": "Minnesota",
+    "answers": [
+      "Minnesota"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the state where General Mills, the manufacturer of Bisquick, is headquartered. According to the context, General Mills is headquartered in Golden Valley, Minnesota. Action: Finish[Minnesota]\nAction: Finish[Minnesota]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ae66d515542992ae0d16346",
+    "question": "In what year was the singer who popularized \"I'll Keep the Lovelight Burning\" born?",
+    "key": "1927",
+    "answers": [
+      "1927"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the birth year of the singer who popularized the song \"I'll Keep the Lovelight Burning.\" The context states that Patti Page popularized the song in 1949 and provides her birth date as November 8, 1927. Therefore, I can conclude that she was born in 1927.Action: Finish[1927]\nAction: Finish[1927]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a72a2935542991f9a20c546",
+    "question": "Is Velvetpark or Shape magazine written more for a lesbian and queer-identified female readership?",
+    "key": "Velvetpark",
+    "answers": [
+      "Velvetpark"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking which publication is specifically aimed at a lesbian and queer-identified female readership. Based on the context provided, Velvetpark is explicitly described as a lesbian and feminist arts and culture website that features content relevant to queer culture, while Shape is a fitness magazine that does not specifically target this demographic. Therefore, Velvetpark is the publication that aligns more closely with a lesbian and queer-identified female readership. Action: Finish[Velvetpark]\nAction: Finish[Velvetpark]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ab7f97a5542991d322237ef",
+    "question": "What is Opry Mills in Nashville, Tennessee?",
+    "key": "super-regional shopping mall",
+    "answers": [
+      "super-regional shopping mall"
+    ],
+    "is_correct": true,
+    "step_n": 2,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for a basic definition or category of Opry Mills. Based on the context provided, I know that Opry Mills is classified as a super-regional shopping mall located in Nashville, Tennessee. Action: Finish[super-regional shopping mall]\nAction: Finish[super-regional shopping mall]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a8e60ca5542995a26add4d9",
+    "question": "In which movie the Stephanie Kay Panabaker was alongside with her elder sister Danielle Nicole Panabaker?",
+    "key": "\"Read It and Weep\" (2006)",
+    "answers": [
+      "Read It and Weep"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for a movie in which Stephanie Kay Panabaker acted alongside her elder sister Danielle Nicole Panabaker. From the context, it mentions that Danielle starred in \"Read It and Weep\" (2006) alongside her younger sister Kay Panabaker. Action: Finish[Read It and Weep]\nAction: Finish[Read It and Weep]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a82ebb855429966c78a6a9c",
+    "question": "whats the famous bavagheet by arun date?",
+    "key": "Shukratara",
+    "answers": [
+      "Shukratara"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for a famous Bhavageete song by Arun Date. Based on the context, the song \"Shukratara\" is mentioned as one of his most popular songs and was even recognized as the song of the month by a Mumbai Radio Station in 1962. Therefore, it is likely the song being referred to in the question.Action: Finish[Shukratara]\nAction: Finish[Shukratara]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5add596f5542990dbb2f7e4d",
+    "question": "Grown-Ups starred the actor who was best known for which role on  \"'Allo 'Allo!\"?",
+    "key": "Captain Hans Geering",
+    "answers": [
+      "Captain Hans Geering"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about the role of the actor who starred in Grown-Ups and is best known for a specific role in \"'Allo 'Allo!\". From the context, I know that Sam Kelly, who starred in Grown-Ups, is best known for his role as Captain Hans Geering in \"'Allo 'Allo!\".Action: Finish[Captain Hans Geering]\nAction: Finish[Captain Hans Geering]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a7f7b3b5542992097ad2f81",
+    "question": "Which restaurant chain's headquarters is further north, Pizza Inn or Papa Gino's?",
+    "key": "Papa Gino's",
+    "answers": [
+      "Papa Gino's"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: To determine which restaurant chain's headquarters is further north, I need to compare the locations of their headquarters. Pizza Inn is based in The Colony, Texas, which is in the southern part of the United States. On the other hand, Papa Gino's is based in Dedham, Massachusetts, which is significantly further north than Texas. Therefore, Papa Gino's headquarters is further north than Pizza Inn's.Action: Finish[Papa Gino's]\nAction: Finish[Papa Gino's]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ab58f9a554299488d4d99da",
+    "question": "What is the birthday of this Anglo-Irish actress, courtean, and mistress, who was the mother to the illegitimate daughter of King William IV?",
+    "key": "22 November",
+    "answers": [
+      "22 November"
+    ],
+    "is_correct": true,
+    "step_n": 2,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the birthday of Dorothea Jordan, who is identified in the context as an Anglo-Irish actress and the mistress of King William IV. According to the context, her birthday is provided as 22 November 1761. However, I need to format the answer correctly as per the requirements, which only asks for the date without the year.Action: Finish[22 November]\nAction: Finish[22 November]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ac532335542994611c8b41c",
+    "question": "Howard Van Doren Shaw was the designer of which 1917 Progressive Era community? ",
+    "key": "Marktown",
+    "answers": [
+      "Marktown"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the name of the community designed by Howard Van Doren Shaw during the Progressive Era in 1917. Based on the context provided, I know that he designed Marktown, a planned worker community in East Chicago, Indiana. Action: Finish[Marktown]\nAction: Finish[Marktown]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5adcbb815542994ed6169bde",
+    "question": "Beer Wars covers the differences between large corporate breweries, and small breweries, such as what brewery that is headquartered in Escondido, california?",
+    "key": "Stone Brewing",
+    "answers": [
+      "Stone Brewing"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the name of a brewery that is headquartered in Escondido, California, which is mentioned in the context. The context specifically states that Stone Brewing is located in Escondido and is a notable example of a smaller brewery. Action: Finish[Stone Brewing]\nAction: Finish[Stone Brewing]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ab915ad55429919ba4e239c",
+    "question": "Who did Muhummad Ali fight next, in Houston, after the so-called Fight of the Century with Joe Frazier?",
+    "key": "Jimmy Ellis",
+    "answers": [
+      "Jimmy Ellis"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about Muhammad Ali's next opponent after the Fight of the Century with Joe Frazier. According to the context, Ali fought Jimmy Ellis in Houston after that match. Action: Finish[Jimmy Ellis]\nAction: Finish[Jimmy Ellis]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ab94fa25542996be2020474",
+    "question": "What is represented on the cover art of the studio album that includes the song \"Speed of Sound\"?",
+    "key": "Baudot code",
+    "answers": [
+      "The Baudot code"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about the cover art of the album that features the song \"Speed of Sound.\" From the context, I know that the cover art of the album \"X&Y\" is a combination of colors and blocks, representing the Baudot code. Action: Finish[The Baudot code]\nAction: Finish[The Baudot code]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a7ca0ef55429907fabeefd3",
+    "question": "Which professional tennis player was born first, Lucie Hradecká or Raffaella Reggi?",
+    "key": "Raffaella Reggi",
+    "answers": [
+      "Raffaella Reggi"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: To determine which professional tennis player was born first, I need to compare their birth dates. Lucie Hradecká was born on 21 May 1985, while Raffaella Reggi was born on 27 November 1965. Since 1965 is earlier than 1985, Raffaella Reggi was born first. Action: Finish[Raffaella Reggi]\nAction: Finish[Raffaella Reggi]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a7a5b3a5542996c55b2dd71",
+    "question": "What building is opposite the ceremonial meeting place of the Accession Council in the United Kingdom?",
+    "key": "Mark Masons' Hall",
+    "answers": [
+      "Mark Masons' Hall"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the building that is located opposite the ceremonial meeting place of the Accession Council, which is St James's Palace. From the context, I know that Mark Masons' Hall is situated opposite St James's Palace. Action: Finish[Mark Masons' Hall]\nAction: Finish[Mark Masons' Hall]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a72dcb45542992359bc31af",
+    "question": "What company did Rex Maughan aquire?",
+    "key": "Aloe Vera of America",
+    "answers": [
+      "Aloe Vera of America"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about a company that Rex Maughan acquired. From the context, it mentions that he acquired Aloe Vera of America in the 1990s. Action: Finish[Aloe Vera of America]\nAction: Finish[Aloe Vera of America]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ac3af895542995ef918c1f0",
+    "question": "Janne Kyttanen has had work exhibited at which modern art museum in Amsterdam?",
+    "key": "Stedelijk Museum Amsterdam",
+    "answers": [
+      "Stedelijk Museum"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the modern art museum in Amsterdam where Janne Kyttanen's work has been exhibited. From the context, I know that his work has been exhibited at the Stedelijk Museum. Action: Finish[Stedelijk Museum]\nAction: Finish[Stedelijk Museum]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ae7a8d35542994a481bbdbb",
+    "question": "Which contest in California pays homage to an American novelist that won the Novel Prize in Literature in 1954?",
+    "key": "The Bad Hemingway Contest",
+    "answers": [
+      "The Bad Hemingway Contest"
+    ],
+    "is_correct": true,
+    "step_n": 2,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for a contest in California that pays homage to an American novelist who won the Nobel Prize in Literature in 1954. From the context, I know that the contest is known as \"The Bad Hemingway Contest,\" which encourages authors to submit writing in a style reminiscent of Ernest Hemingway, who is the novelist in question. Action: Finish[The Bad Hemingway Contest]\nAction: Finish[The Bad Hemingway Contest]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ae1e22a5542997f29b3c160",
+    "question": "The role of \"Celene\" in the film \"Walk All over Me\" was played by an actress that voices what role in the \"Starcraft 2\" triolgy?",
+    "key": "Sarah Kerrigan",
+    "answers": [
+      "Sarah Kerrigan, the Queen of Blades"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about the role voiced by the actress who played \"Celene\" in \"Walk All Over Me.\" From the context, I know that Tricia Helfer, who played \"Celene,\" is known for voicing Sarah Kerrigan, the Queen of Blades, in the \"Starcraft 2\" trilogy. Action: Finish[Sarah Kerrigan, the Queen of Blades]\nAction: Finish[Sarah Kerrigan, the Queen of Blades]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5addc79d5542995b365fab7b",
+    "question": "Which episode of SpongeBob SquarePants aired first, The Clash of Triton or To SquarePants or Not to SquarePants?\"",
+    "key": "To SquarePants or Not to SquarePants",
+    "answers": [
+      "To SquarePants or Not to SquarePants"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking which episode aired first between \"The Clash of Triton\" and \"To SquarePants or Not to SquarePants.\" From the context, I know that \"The Clash of Triton\" aired on July 5, 2010, and \"To SquarePants or Not to SquarePants\" is mentioned as a special episode that was broadcast as part of the tenth anniversary celebration. Since the tenth anniversary celebration and its associated episodes occurred in 2009, it indicates that \"To SquarePants or Not to SquarePants\" aired before \"The Clash of Triton.\"Action: Finish[To SquarePants or Not to SquarePants]\nAction: Finish[To SquarePants or Not to SquarePants]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a78bc6b554299148911f979",
+    "question": "Woman's Era and Naj are what kind of magazines?",
+    "key": "fortnightly women interest magazine",
+    "answers": [],
+    "is_correct": null,
+    "step_n": 5,
+    "reflections": [],
+    "scratchpad": ""
+  },
+  {
+    "id": "5ac097b05542996f0d89cc18",
+    "question": "Are Ruggero Deodato from Italy, and Mexican Alejandro Springall, both film directors?",
+    "key": "yes",
+    "answers": [
+      "Yes, both are film directors."
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking if both Ruggero Deodato and Alejandro Springall are film directors, while also noting their nationalities. From the context, I see that Ruggero Deodato is indeed a film director from Italy, and Alejandro Springall is a film director from Mexico. Therefore, both individuals are film directors. Action: Finish[Yes, both are film directors.]\nAction: Finish[Yes, both are film directors.]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5aba52e655429939ce03dc94",
+    "question": "This term about a playwright who lived from 1564-1616 presented what about his works? ",
+    "key": "chronological collection of critical quotations",
+    "answers": [
+      "Chronological collection of critical quotations about Shakespeare's works"
+    ],
+    "is_correct": true,
+    "step_n": 4,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for a description of what the term \"Timeline of Shakespeare criticism\" conveys about the works of William Shakespeare. Based on the context, this term refers to a chronological collection of critical quotations that reflect the evolving perception and reputation of Shakespeare's works over time. Action: Finish[Chronological collection of critical quotations about Shakespeare's works]\nAction: Finish[Chronological collection of critical quotations about Shakespeare's works]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a79caad5542994f819ef09f",
+    "question": "Which professional baseball player was born in 1984 and played as a rookie for the Los Angeles Dogers in 2007?",
+    "key": "Matthew Ryan Kemp",
+    "answers": [
+      "Matthew Ryan Kemp"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for a specific professional baseball player who was born in 1984 and made his rookie appearance for the Los Angeles Dodgers in 2007. From the context, I see that Matthew Ryan Kemp fits this description as he was mentioned as a rookie during the Dodgers' 2007 season and was born in 1984. Action: Finish[Matthew Ryan Kemp]\nAction: Finish[Matthew Ryan Kemp]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ade4801554299728e26c6ab",
+    "question": "Wolf and Sheep was screened at which 2016 film festival?",
+    "key": "69th Cannes Film Festival",
+    "answers": [
+      "Cannes Film Festival, 69th"
+    ],
+    "is_correct": true,
+    "step_n": 2,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the specific film festival where \"Wolf and Sheep\" was screened in 2016. The context states that it was screened at the Cannes Film Festival, specifically mentioning that it was part of the Directors' Fortnight section. Additionally, it is important to note that this was during the 69th Cannes Film Festival, which took place from May 11 to May 22, 2016. Therefore, I need to include both the name of the festival and the year for a complete answer.Action: Finish[Cannes Film Festival, 69th]\nAction: Finish[Cannes Film Festival, 69th]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5abbd3ac55429931dba1458b",
+    "question": "Are both Duke Energy and Affiliated Managers Group based in Massachusetts?",
+    "key": "no",
+    "answers": [
+      "No"
+    ],
+    "is_correct": true,
+    "step_n": 2,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking whether both companies, Duke Energy and Affiliated Managers Group, are headquartered in Massachusetts. From the context, I know that Duke Energy is headquartered in Charlotte, North Carolina, while Affiliated Managers Group is based in Massachusetts. Since Duke Energy is not located in Massachusetts, it means that not both companies are based there.Action: Finish[No]\nAction: Finish[No]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ae6316d5542996de7b71b87",
+    "question": "Which FC Barcelona signee was a contender for the Rookie of the Year Award when he played for the Timberwolves?",
+    "key": "Ricard Rubio i Vives",
+    "answers": [
+      "Ricard Rubio i Vives"
+    ],
+    "is_correct": true,
+    "step_n": 2,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the name of the player who signed with FC Barcelona and was a contender for the Rookie of the Year Award while playing for the Minnesota Timberwolves. From the context, I know that this player is Ricard Rubio i Vives, commonly known as Ricky Rubio. Action: Finish[Ricard Rubio i Vives]\nAction: Finish[Ricard Rubio i Vives]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ae6f2a7554299572ea5464a",
+    "question": "Which character does this protagonist, who secretly loves and marries a member of the rival house, of William Shakespeare's tragedy that has a fictional character Benvolio slay?",
+    "key": "Tybalt",
+    "answers": [],
+    "is_correct": null,
+    "step_n": 5,
+    "reflections": [],
+    "scratchpad": ""
+  },
+  {
+    "id": "5a83a31c554299123d8c2179",
+    "question": "Who is the lead vocalist for Maroon 5's sixth studio album?",
+    "key": "Adam Levine",
+    "answers": [
+      "Adam Levine"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the lead vocalist of Maroon 5, specifically in the context of their sixth studio album. From the context provided, I know that the lead vocalist of Maroon 5 is Adam Levine. Action: Finish[Adam Levine]\nAction: Finish[Adam Levine]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5abaca935542996606241610",
+    "question": "\"Text Me Merry Christmas\" is a song performed by Kristen Bell and a group that originated at what univeristy?",
+    "key": "Indiana University",
+    "answers": [
+      "Indiana University"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the university where the a cappella group Straight No Chaser originated. According to the context, Straight No Chaser was formed at Indiana University. Action: Finish[Indiana University]\nAction: Finish[Indiana University]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a72830e5542994cef4bc2f9",
+    "question": "Where is the company that distributed XXXTentacion's single \"Revenge\" based?",
+    "key": "San Francisco, California",
+    "answers": [
+      "San Francisco, California"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the location of the company that distributed the single \"Revenge\" by XXXTentacion. The context states that EMPIRE, the distribution company, is based in San Francisco, California. Action: Finish[San Francisco, California]\nAction: Finish[San Francisco, California]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a8db348554299068b959dc2",
+    "question": "What is the subsidiary of the record company who released \"Love Incredible?\"",
+    "key": "Vivendi S.A.",
+    "answers": [],
+    "is_correct": null,
+    "step_n": 5,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the subsidiary of the record company that released \"Love Incredible.\" From the context, I see that \"Love Incredible\" was released through Interscope Records, which is a major record label. The parent company of Interscope Records is Universal Music Group, which is a subsidiary of Vivendi S.A. Therefore, the subsidiary of the record company that released \"Love Incredible\" is Universal Music Group.Action: Finish[Universal Music Group]\nAction: Thought: The question is asking for the subsidiary of the record company that released \"Love Incredible.\" The context indicates that \"Love Incredible\" was released through Interscope Records, which is part of Interscope Geffen A&M Records. The parent company of Interscope Records is Universal Music Group, which is a subsidiary of Vivendi S.A. However, since the question specifically asks for the subsidiary of the record company that released the song, I need to clarify that Interscope Records itself is not a subsidiary but rather a major label. Therefore, the correct answer is Universal Music Group as the parent company. Action: Finish[Universal Music Group]\nObservation:\nThought: The question is asking for the subsidiary of the record company that released \"Love Incredible.\" From the context, I see that \"Love Incredible\" was released through Interscope Records. Interscope Records is a major label, and its parent company is Universal Music Group, which is a subsidiary of Vivendi S.A. Therefore, the answer to the question about the subsidiary of the record company that released \"Love Incredible\" is Universal Music Group. Action: Finish[Universal Music Group]\nAction: Thought: The question is asking for the subsidiary of the record company that released \"Love Incredible.\" The context indicates that \"Love Incredible\" was released through Interscope Records. Interscope Records is a major label, and its parent company is Universal Music Group, which is a subsidiary of Vivendi S.A. Therefore, the answer to the question about the subsidiary of the record company that released \"Love Incredible\" is Universal Music Group. Action: Finish[Universal Music Group]\nObservation:\nThought: The question is asking for the subsidiary of the record company that released \"Love Incredible.\" The context indicates that \"Love Incredible\" was released through Interscope Records. Interscope Records is a major label, and its parent company is Universal Music Group, which is a subsidiary of Vivendi S.A. Therefore, the answer to the question about the subsidiary of the record company that released \"Love Incredible\" is Universal Music Group. Action: Finish[Universal Music Group]\nAction: Thought: The question is asking for the subsidiary of the record company that released \"Love Incredible.\" The context indicates that \"Love Incredible\" was released through Interscope Records. Interscope Records is a major label, and its parent company is Universal Music Group, which is a subsidiary of Vivendi S.A. Therefore, the answer to the question about the subsidiary of the record company that released \"Love Incredible\" is Universal Music Group. Action: Finish[Universal Music Group]\nObservation:"
+  },
+  {
+    "id": "5ae4d3a55542990ba0bbb164",
+    "question": "What creature of American folklore gained notoriety in 1964?",
+    "key": "Dewey Lake Monster",
+    "answers": [
+      "Dewey Lake Monster"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about a creature of American folklore that became well-known in 1964. Based on the context provided, the Dewey Lake Monster, also referred to as the Michigan Bigfoot, fits this description as it gained notoriety after reported sightings in that year. Action: Finish[Dewey Lake Monster]\nAction: Finish[Dewey Lake Monster]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a8bd49d5542997f31a41dd7",
+    "question": "Who is this American cartoonist, writer, producer, animator, and voice actor that worked with this multiple Shuster Award, Harvey Award and Eisner Award nominee and an Eisner Award–winning comic book creator?",
+    "key": "Matt Groening",
+    "answers": [
+      "Matt Groening"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the name of an American cartoonist, writer, producer, animator, and voice actor who has collaborated with Ian Boothby, who is noted for his work in comics and theatre. Based on the context, it is clear that Matt Groening is the individual being referred to, as he is a prominent figure in animation and the creator of \"The Simpsons\" and \"Futurama,\" both of which are related to Boothby's work. Action: Finish[Matt Groening]\nAction: Finish[Matt Groening]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ab29346554299545a2cf997",
+    "question": "What CBS-affiliated station serves Pontotoc County, Oklahoma?",
+    "key": "KXII",
+    "answers": [
+      "KXII"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the CBS-affiliated television station that serves Pontotoc County, Oklahoma. Based on the context provided, KXII is identified as a CBS-affiliated station that serves the Ada–Sherman media market, which includes Pontotoc County. Action: Finish[KXII]\nAction: Finish[KXII]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ae0a59a55429945ae9593e2",
+    "question": "This Celtic ruler who was born in AD 43 ruled southeastern Britain prior to conquest by which empire?",
+    "key": "Roman",
+    "answers": [
+      "Roman Empire"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about the empire that conquered southeastern Britain, where the Celtic ruler Togodumnus ruled. Based on the context, I know that the Roman Empire was responsible for the conquest of Britain during this time. Action: Finish[Roman Empire]\nAction: Finish[Roman Empire]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ab700ca5542991d32223736",
+    "question": "Which other film did one of the supporting cast in \"Sleepless in Seattle\" appear?",
+    "key": "\"Now and Then\" (1995)",
+    "answers": [
+      "Now and Then"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for another film that features a member of the supporting cast from \"Sleepless in Seattle.\" Based on the context, Rita Wilson is mentioned as part of the supporting cast, and she appeared in several other films, including \"Now and Then\" (1995). Action: Finish[Now and Then]\nAction: Finish[Now and Then]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ab3ede755429976abd1bcf4",
+    "question": "Who directed the 1940 film in which John Arledge appeared?",
+    "key": "John Ford",
+    "answers": [
+      "John Ford"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the director of the 1940 film \"The Grapes of Wrath,\" in which John Arledge appeared. From the context, I know that the film was directed by John Ford. Action: Finish[John Ford]\nAction: Finish[John Ford]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a80071f5542992bc0c4a684",
+    "question": "Alice David is the voice of Lara Croft in a video game developed by which company ?",
+    "key": "Crystal Dynamics",
+    "answers": [
+      "Crystal Dynamics"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the company that developed the video game in which Alice David voices Lara Croft. From the context, I know that \"Tomb Raider\" is developed by Crystal Dynamics. Action: Finish[Crystal Dynamics]\nAction: Finish[Crystal Dynamics]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ae08a0455429924de1b70fc",
+    "question": "Which German project recorded a song that featured vocals by a duo from Silverdale, England?",
+    "key": "Enigma",
+    "answers": [
+      "Enigma"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the German musical project that recorded a song featuring vocals by the English duo Aquilo. From the context, I know that the song \"Amen\" was created by the German project Enigma, which included vocals from Aquilo. Action: Finish[Enigma]\nAction: Finish[Enigma]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ab484415542990594ba9c44",
+    "question": "Which facility was founded in Missouri, Discovery Zone or Valentino's?",
+    "key": "Discovery Zone",
+    "answers": [
+      "Discovery Zone"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking which facility was founded in Missouri. According to the context, Discovery Zone was founded in 1989 and the first location opened in Kansas City, Missouri. Valentino's, on the other hand, was founded in Nebraska. Therefore, Discovery Zone is the facility founded in Missouri. Action: Finish[Discovery Zone]\nAction: Finish[Discovery Zone]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a716ec85542994082a3e82d",
+    "question": "Which movie was filmed first \"The Guest\" or \"You're Next\"?",
+    "key": "You're Next",
+    "answers": [
+      "You're Next"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking which movie was filmed first. Based on the context, \"You're Next\" was released in 2011, while \"The Guest\" was released in 2014. Therefore, \"You're Next\" was filmed first. Action: Finish[You're Next]\nAction: Finish[You're Next]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a811667554299260e20a23d",
+    "question": "What occupations do both Ian Hunter and Rob Thomas have?",
+    "key": "singer, songwriter",
+    "answers": [
+      "Singer and Songwriter"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the occupations that both Ian Hunter and Rob Thomas share. From the context, I see that both are described as singers and songwriters. Ian Hunter is a singer-songwriter known for his work with Mott the Hoople, while Rob Thomas is also a singer-songwriter known for his role in Matchbox 20 and as a solo artist. Action: Finish[Singer and Songwriter]\nAction: Finish[Singer and Songwriter]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5abba3cd554299642a094aee",
+    "question": "How many different schools does the university, in which Andrew J. Elliot is a professor of psychology, have?",
+    "key": "six",
+    "answers": [
+      "Six"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the number of different schools at the University of Rochester, where Andrew J. Elliot is a professor. According to the context, the university has six schools. Action: Finish[Six]\nAction: Finish[Six]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a89dd4d554299669944a5e3",
+    "question": "Flower Alley was bred by the trainer who was killed at what Fayette County, Kentucky airport?",
+    "key": "Blue Grass Airport",
+    "answers": [
+      "Blue Grass Airport"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the airport in Fayette County, Kentucky, where the trainer of Flower Alley was killed. The context mentions that George Brunacini, the breeder of Flower Alley, was killed in a crash at Blue Grass Airport. Therefore, the answer is Blue Grass Airport. Action: Finish[Blue Grass Airport]\nAction: Finish[Blue Grass Airport]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ade25ed5542997c77aded70",
+    "question": "During what war were the Russia-United Kingdom relations in a state of rivalry after the abdication of Emperor Nicholas II? ",
+    "key": "the Cold War (1947–91)",
+    "answers": [
+      "Cold War"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about a specific war during which the Russia-United Kingdom relations were characterized by rivalry following the abdication of Emperor Nicholas II. Based on the context, the abdication occurred during the Russian Revolution of 1917, and the subsequent conflict that exemplified rivalry between Russia and the UK was during the Cold War, which lasted from 1947 to 1991. However, the context does not specify a particular war immediately after the abdication, but the Cold War is the most significant period of rivalry mentioned. Action: Finish[Cold War]\nAction: Finish[Cold War]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ac540365542994611c8b470",
+    "question": "Loughborough Students' Union serves the students at what public research university that has been a university since 1966, but the institution dates back to 1909?",
+    "key": "Loughborough University",
+    "answers": [
+      "Loughborough University"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the name of the public research university that Loughborough Students' Union serves, which has been a university since 1966 and has its origins dating back to 1909. Based on the context provided, this university is Loughborough University. Action: Finish[Loughborough University]\nAction: Finish[Loughborough University]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ae789615542997ec2727695",
+    "question": "Kam Heskin plays Paige Morgan in a 2004 film directed by who?",
+    "key": "Martha Coolidge",
+    "answers": [
+      "Martha Coolidge"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the director of the 2004 film in which Kam Heskin plays Paige Morgan. Based on the context, I know that the film \"The Prince and Me\" was directed by Martha Coolidge. Action: Finish[Martha Coolidge]\nAction: Finish[Martha Coolidge]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a75e67d5542992db9473709",
+    "question": "What was a series of battles during the Revolutionary War, for control of New York City and the state of New Jersey, fought on October 28, 1776 near White Plains, New York?",
+    "key": "New York and New Jersey campaign",
+    "answers": [
+      "New York and New Jersey campaign"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the name of a series of battles that occurred during the Revolutionary War, specifically mentioning the Battle of White Plains on October 28, 1776. Given the context, this series of battles is referred to as the New York and New Jersey campaign. Action: Finish[New York and New Jersey campaign]\nAction: Finish[New York and New Jersey campaign]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a8a5a1955429930ff3c0da7",
+    "question": "In what year was the Sayrevill, New Jersey rock band that Frankie LaRocka played drums for formed?",
+    "key": "1983",
+    "answers": [
+      "1983"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the year in which Bon Jovi, the rock band that Frankie LaRocka played drums for, was formed. According to the context, Bon Jovi was formed in 1983. Action: Finish[1983]\nAction: Finish[1983]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a7bc0755542995eb53be9a5",
+    "question": "The series of novels that reference numerous locations and incorporates themes from multiple genres is titled what?",
+    "key": "The Dark Tower",
+    "answers": [
+      "The Dark Tower"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the title of the series of novels that references various locations and includes multiple genres. Based on the context provided, I know that this series is \"The Dark Tower\" by Stephen King. Action: Finish[The Dark Tower]\nAction: Finish[The Dark Tower]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ae7535c5542997b22f6a6d8",
+    "question": "The 53rd National Hockey League All-Star Game took place at the indoor arena that was completed in what year?",
+    "key": "1998",
+    "answers": [
+      "1998"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the year the indoor arena, where the 53rd NHL All-Star Game took place, was completed. The context indicates that the BB&T Center, which hosted the game, was completed in 1998. Action: Finish[1998]\nAction: Finish[1998]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a9064c755429916514e74a6",
+    "question": "What is the first name of Jack Benny Binion's father?",
+    "key": "Lester",
+    "answers": [
+      "Lester"
+    ],
+    "is_correct": true,
+    "step_n": 4,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the first name of Jack Benny Binion's father. From the context provided, I see that Jack Benny Binion's father is referred to as Benny Binion. However, Benny is actually a nickname; his full name is Lester Ben \"Benny\" Binion. Therefore, the first name I need is Lester. Action: Finish[Lester]\nAction: Finish[Lester]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a776fc15542997042120a3a",
+    "question": "What is the mascot of the oldest private university in Georgia?",
+    "key": "The Bears",
+    "answers": [
+      "Bears"
+    ],
+    "is_correct": true,
+    "step_n": 2,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the mascot of Mercer University, which is identified as the oldest private university in Georgia. Based on the context, the mascot of Mercer University is the Bears. Action: Finish[Bears]\nAction: Finish[Bears]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a81c7d15542990a1d231ea9",
+    "question": "Which services did Rock Nominees Ltd and  ISS A/S (Integrated Service Solutions) have in common?",
+    "key": "cleaning, catering and security",
+    "answers": [
+      "Cleaning, Catering, and Security Services"
+    ],
+    "is_correct": true,
+    "step_n": 2,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the common services provided by Rock Nominees Ltd and ISS A/S. Based on the context, I know that ISS A/S offers a range of services including cleaning, catering, and security services. RCO, which was associated with Rock Nominees Ltd, is also involved in cleaning, catering, and security porterage. Therefore, both companies share these three services.Action: Finish[Cleaning, Catering, and Security Services]\nAction: Finish[Cleaning, Catering, and Security Services]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a87b2fc5542996e4f3088d0",
+    "question": "Who wrote the book that inspired the name of the CD/DVD \"Here at the End of All Things\"?",
+    "key": "J. R. R. Tolkien",
+    "answers": [
+      "J. R. R. Tolkien"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the author of the book that inspired the title of the CD/DVD \"Here at the End of All Things.\" The context indicates that the title comes from \"The Lord of the Rings: The Return of the King,\" which was written by J. R. R. Tolkien. Action: Finish[J. R. R. Tolkien]\nAction: Finish[J. R. R. Tolkien]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5adf1b8a5542995534e8c750",
+    "question": "What band did Gator Country guitarist that co-wrote Bloody Reunion come from?",
+    "key": "Molly Hatchet",
+    "answers": [
+      "Molly Hatchet"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about the origin of the guitarist from Gator Country who co-wrote \"Bloody Reunion.\" From the context, I know that Duane Roland, who was a guitarist for Gator Country, was also a member of Molly Hatchet, where he co-wrote \"Bloody Reunion.\" Action: Finish[Molly Hatchet]\nAction: Finish[Molly Hatchet]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a87081755429960ec39b6fe",
+    "question": "Jessica Jones is a television series created for Netflix, the second in the series of the shows that lead to \"The Defenders\" miniseries after what show released on Netflix earlier?",
+    "key": "Daredevil",
+    "answers": [
+      "Daredevil"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the show that was released on Netflix prior to Jessica Jones and is part of the series leading to \"The Defenders.\" Based on the context, Jessica Jones is the second show in this series, which indicates that there must be a first show. The context does not explicitly mention the first show, but it is known that \"Daredevil\" was the first Marvel series released on Netflix before Jessica Jones. Action: Finish[Daredevil]\nAction: Finish[Daredevil]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a80721b554299485f5985ef",
+    "question": "The Livesey Hal War Memorial commemorates the fallen of which war, that had over 60 million casualties?",
+    "key": "World War II",
+    "answers": [
+      "World War II"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about the war commemorated by the Livesey Hall War Memorial, which is specifically mentioned in the context. The context highlights that the memorial commemorates those who fell in World War I and World War II. Given that World War II had over 60 million casualties, it is clear that the memorial honors the fallen from this conflict as well. Action: Finish[World War II]\nAction: Finish[World War II]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a85fb085542994775f606de",
+    "question": "What is the name of the executive producer of the film that has a score composed by Jerry Goldsmith?",
+    "key": "Ronald Shusett",
+    "answers": [
+      "Ronald Shusett"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the name of the executive producer of the film \"Alien,\" which has a score composed by Jerry Goldsmith. From the context, I know that Ronald Shusett is mentioned as the executive producer of the film. Action: Finish[Ronald Shusett]\nAction: Finish[Ronald Shusett]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ac4db1d554299076e296e1a",
+    "question": "who is a British physicist  and also a  British government's chief scientific adviser",
+    "key": "Frederick Alexander",
+    "answers": [],
+    "is_correct": null,
+    "step_n": 5,
+    "reflections": [],
+    "scratchpad": ""
+  },
+  {
+    "id": "5a79c1335542994bb9457066",
+    "question": "Eric Ambler and Carol Shields are both best Known for what profession?",
+    "key": "author",
+    "answers": [
+      "Authors"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about the profession for which both Eric Ambler and Carol Shields are best known. Based on the context, I see that Eric Ambler was an author of thrillers and spy novels, while Carol Shields was a novelist and short story writer. Therefore, both are best known for being authors. Action: Finish[Authors]\nAction: Finish[Authors]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a774e9c55429972597f14f3",
+    "question": "David Huntsinger has worked with this gospel singer born in the month of July?",
+    "key": "Larnelle Harris",
+    "answers": [
+      "Larnelle Harris"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for a gospel singer that David Huntsinger has worked with, who was born in July. From the context, it mentions Larnelle Harris, who was born on July 6, 1947, and is a gospel singer. Therefore, he is the correct answer. Action: Finish[Larnelle Harris]\nAction: Finish[Larnelle Harris]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5adcdea85542992c1e3a2441",
+    "question": "What film adaptation do both Jerome Bernard and Ira Lewis have in common?",
+    "key": "Chinese Coffee",
+    "answers": [
+      "Chinese Coffee"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for a film adaptation that features both Jerome Bernard \"Jerry\" Orbach and Ira Lewis Metsky. From the context, I know that both actors were involved in the film adaptation of the one-act play \"Chinese Coffee,\" which starred Al Pacino and was released in 2000. Action: Finish[Chinese Coffee]\nAction: Finish[Chinese Coffee]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ab9b2c7554299743d22ebaf",
+    "question": "Are both Lygodium or Maxillaria a genus of orchids?",
+    "key": "no",
+    "answers": [
+      "No, only Maxillaria is a genus of orchids."
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking whether both Lygodium and Maxillaria are genera of orchids. From the context, I see that Lygodium is a genus of ferns, while Maxillaria is a genus of orchids. Therefore, only Maxillaria is a genus of orchids, not Lygodium. Action: Finish[No, only Maxillaria is a genus of orchids.]\nAction: Finish[No, only Maxillaria is a genus of orchids.]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ac509e95542994611c8b333",
+    "question": "The chicken is a type of dance pattern that is a change of pace of what dance?",
+    "key": "the Twist",
+    "answers": [
+      "Twist"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about the dance that the Chicken dance serves as a change of pace for. From the context provided, I know that the Chicken dance was primarily used as a change of pace step while doing the Twist. Action: Finish[Twist]\nAction: Finish[Twist]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ac1a6bf5542991316484b8d",
+    "question": "In what state did this band form that is an American metalcore band, founded in mid-2009, and whose lead vocalist was Jerry Roush?",
+    "key": "California",
+    "answers": [
+      "California"
+    ],
+    "is_correct": true,
+    "step_n": 3,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the state where a specific American metalcore band, founded in mid-2009 and led by Jerry Roush, formed. However, based on the context provided, Jerry Roush was associated with Glass Cloud, which was formed in late 2011, not in mid-2009. The band that fits the description of being founded in mid-2009 is Of Mice & Men, which was formed in Orange County, California. Therefore, I need to focus on the correct band that matches the founding year and the state.Action: Finish[California]\nAction: Finish[California]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ab322b1554299194fa93570",
+    "question": "Which type of character is featured by the P.L. Travers's third book and last novel in the \"Mary Poppins\" series?",
+    "key": "fictional character",
+    "answers": [
+      "Fictional Character"
+    ],
+    "is_correct": true,
+    "step_n": 2,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the type of character featured in P.L. Travers's third book in the \"Mary Poppins\" series. Based on the context, I know that Mary Poppins is described as a magical English nanny, which indicates that she is a fictional character. Therefore, the type of character is a fictional character. Action: Finish[Fictional Character]\nAction: Finish[Fictional Character]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a7ea14655429930675135ab",
+    "question": "What giant silverware company was started as a religious Utopian group and was for many years run by Pierrepont Noyes?",
+    "key": "Oneida Limited",
+    "answers": [
+      "Oneida Limited"
+    ],
+    "is_correct": true,
+    "step_n": 1,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the name of the giant silverware company that originated from the Oneida Community, which was a religious Utopian group. Based on the context provided, I know that this company is Oneida Limited, and Pierrepont Noyes was the head of it for many years. Action: Finish[Oneida Limited]\nAction: Finish[Oneida Limited]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a807ca5554299485f598613",
+    "question": "Where was the original line of the railroad William Howard worked for?",
+    "key": "the port of Baltimore west to Sandy Hook",
+    "answers": [
+      "From the port of Baltimore west to Sandy Hook"
+    ],
+    "is_correct": true,
+    "step_n": 3,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the location of the original line of the Baltimore and Ohio Railroad, which is the railroad William Howard worked for. From the context, I know that the original line ran from the port of Baltimore west to Sandy Hook. Action: Finish[From the port of Baltimore west to Sandy Hook]\nAction: Finish[From the port of Baltimore west to Sandy Hook]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5ae199305542997b2ef7d20e",
+    "question": "In what european city is a location of the college from which the woman known as Comic Book Girl 19 received her degree?",
+    "key": "Lacoste, France",
+    "answers": [],
+    "is_correct": null,
+    "step_n": 5,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for a European city where a location of the Savannah College of Art and Design (SCAD) is situated, from which Danika Lee Massey, also known as Comic Book Girl 19, received her degree. The context states that SCAD has a location in Lacoste, France. However, Lacoste is a small town, not a city. Therefore, I need to consider if there is a more appropriate answer that fits the definition of a city. Since the context does not provide another European city location for SCAD, I will conclude that Lacoste is the only mentioned location, despite it being a town.Action: Finish[Lacoste]\nAction: Thought: The question is asking for a European city where a location of the Savannah College of Art and Design (SCAD) is situated, from which Danika Lee Massey received her degree. The context states that SCAD has a location in Lacoste, France. However, Lacoste is a small town, not a city. Since the question specifically asks for a city, I need to acknowledge that Lacoste does not meet that criterion. Given that there are no other European cities mentioned in the context, I will have to conclude that Lacoste is the only location provided, even though it does not fit the definition of a city. Action: Finish[Lacoste]\nObservation:\nThought: The question is asking for a European city where a location of the Savannah College of Art and Design (SCAD) is situated, from which Danika Lee Massey, also known as Comic Book Girl 19, received her degree. The context states that SCAD has a location in Lacoste, France. However, Lacoste is a small town, not a city. Since the question specifically asks for a city, I need to acknowledge that Lacoste does not meet that criterion. Given that there are no other European cities mentioned in the context, I will have to conclude that Lacoste is the only location provided, even though it does not fit the definition of a city.Action: Finish[Lacoste]\nAction: Thought: The question is asking for a European city where a location of the Savannah College of Art and Design (SCAD) is situated, from which Danika Lee Massey, also known as Comic Book Girl 19, received her degree. The context states that SCAD has a location in Lacoste, France. However, Lacoste is a small town, not a city. Since the question specifically asks for a city, I need to acknowledge that Lacoste does not meet that criterion. Given that there are no other European cities mentioned in the context, I will have to conclude that Lacoste is the only location provided, even though it does not fit the definition of a city. Action: Finish[Lacoste]\nObservation:\nThought: The question is asking for a European city where a location of the Savannah College of Art and Design (SCAD) is situated, from which Danika Lee Massey, also known as Comic Book Girl 19, received her degree. The context states that SCAD has a location in Lacoste, France. However, Lacoste is a small town, not a city. Since the question specifically asks for a city, I need to acknowledge that Lacoste does not meet that criterion. Given that there are no other European cities mentioned in the context, I will have to conclude that Lacoste is the only location provided, even though it does not fit the definition of a city. Action: Finish[Lacoste]\nAction: Thought: The question is asking for a European city where a location of the Savannah College of Art and Design (SCAD) is situated, from which Danika Lee Massey, also known as Comic Book Girl 19, received her degree. The context states that SCAD has a location in Lacoste, France. However, Lacoste is a small town, not a city. Since the question specifically asks for a city, I need to acknowledge that Lacoste does not meet that criterion. Given that there are no other European cities mentioned in the context, I will have to conclude that Lacoste is the only location provided, even though it does not fit the definition of a city. Action: Finish[Lacoste]\nObservation:\nThought: The question is asking for a European city where a location of the Savannah College of Art and Design (SCAD) is situated, from which Danika Lee Massey, also known as Comic Book Girl 19, received her degree. The context states that SCAD has a location in Lacoste, France. However, Lacoste is a small town, not a city. Since the question specifically asks for a city, I need to acknowledge that Lacoste does not meet that criterion. Given that there are no other European cities mentioned in the context, I will have to conclude that Lacoste is the only location provided, even though it does not fit the definition of a city. Action: Finish[Lacoste]\nAction: Thought: The question is asking for a European city where a location of the Savannah College of Art and Design (SCAD) is situated, from which Danika Lee Massey, also known as Comic Book Girl 19, received her degree. The context states that SCAD has a location in Lacoste, France. However, Lacoste is a small town, not a city. Since the question specifically asks for a city, I need to acknowledge that Lacoste does not meet that criterion. Given that there are no other European cities mentioned in the context, I will have to conclude that Lacoste is the only location provided, even though it does not fit the definition of a city. Action: Finish[Lacoste]\nObservation:"
+  },
+  {
+    "id": "5a8b42be55429949d91db515",
+    "question": "What profession does John Lanchester and Alan Dean Foster have in common?",
+    "key": "novelist",
+    "answers": [
+      "Novelist"
+    ],
+    "is_correct": true,
+    "step_n": 2,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking about the common profession shared by John Henry Lanchester and Alan Dean Foster. Based on the context, both individuals are involved in writing, specifically as novelists. While Lanchester is noted as a journalist as well, the key commonality here is their work in novel writing. Action: Finish[Novelist]\nAction: Finish[Novelist]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5adf3c155542993a75d2643a",
+    "question": "What is the given name of the character depicted as Juliet Hulme in Heavenly Creatures?",
+    "key": "Anne Perry",
+    "answers": [],
+    "is_correct": null,
+    "step_n": 5,
+    "reflections": [],
+    "scratchpad": ""
+  },
+  {
+    "id": "5adf95745542995534e8c7f8",
+    "question": "Where does Śivarāma Swami conduct courses on Vaishnava Theology?",
+    "key": "in the village of Aldenham",
+    "answers": [
+      "Aldenham"
+    ],
+    "is_correct": true,
+    "step_n": 5,
+    "reflections": [],
+    "scratchpad": "\nThought: The question is asking for the location where Śivarāma Swami conducts courses on Vaishnava Theology. Based on the context provided, I know that he conducts these courses at Bhaktivedanta Manor, which is located in the village of Aldenham, Hertfordshire, England. However, the question is looking for a more general location rather than the specific name of the temple. Action: Finish[Aldenham]\nAction: Finish[Aldenham]\nObservation: Answer is CORRECT"
+  },
+  {
+    "id": "5a7b63eb55429931da12ca7e",
+    "question": "What city does Paul Clyne and David Soares have in common?",
+    "key": "New York",
+    "answers": [],
+    "is_correct": null,
+    "step_n": 5,
+    "reflections": [],
+    "scratchpad": ""
+  }
+]

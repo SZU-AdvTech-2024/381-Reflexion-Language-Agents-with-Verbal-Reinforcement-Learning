@@ -1,0 +1,9 @@
+joblib
+langchain
+langchain-community
+langchain-openai
+rich
+rapidfuzz
+pydantic
+alfworld
+tqdm
